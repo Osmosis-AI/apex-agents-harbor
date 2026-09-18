@@ -1,0 +1,969 @@
+[
+  {
+    "name": "apex-agents-1-1",
+    "version": "1.0.1",
+    "description": "APEX-Agents 1.1 (Mercor): 240 long-horizon professional-services tasks across investment banking, law, and management consulting, as published on the Harbor Hub, with the world, agent, and verifier images repointed to the Osmosis mirror at their original digests.",
+    "tasks": [
+      {
+        "name": "128-jr-1-f7f95d92",
+        "path": "tasks/128-jr-1-f7f95d92"
+      },
+      {
+        "name": "analyze-effect-of-anti-slapp-suit-against-bluelng-on-pre-sui-4b81f3b2",
+        "path": "tasks/analyze-effect-of-anti-slapp-suit-against-bluelng-on-pre-sui-4b81f3b2"
+      },
+      {
+        "name": "cw134-aditi-01-6914a79e",
+        "path": "tasks/cw134-aditi-01-6914a79e"
+      },
+      {
+        "name": "cw134-aditi-03-64426b4e",
+        "path": "tasks/cw134-aditi-03-64426b4e"
+      },
+      {
+        "name": "law-433-ac-02-c26a646e",
+        "path": "tasks/law-433-ac-02-c26a646e"
+      },
+      {
+        "name": "law-world-423-dm-03-726ce1ed",
+        "path": "tasks/law-world-423-dm-03-726ce1ed"
+      },
+      {
+        "name": "law-world-423-dm-04-1a9a5de6",
+        "path": "tasks/law-world-423-dm-04-1a9a5de6"
+      },
+      {
+        "name": "law433-mk-01-ec4c48f7",
+        "path": "tasks/law433-mk-01-ec4c48f7"
+      },
+      {
+        "name": "lawworld417-ab-01-c07832b1",
+        "path": "tasks/lawworld417-ab-01-c07832b1"
+      },
+      {
+        "name": "lawworld417-anb-04-06729721",
+        "path": "tasks/lawworld417-anb-04-06729721"
+      },
+      {
+        "name": "lawworld417-as-02-b4b20204",
+        "path": "tasks/lawworld417-as-02-b4b20204"
+      },
+      {
+        "name": "lawworld417-as-03-343937d4",
+        "path": "tasks/lawworld417-as-03-343937d4"
+      },
+      {
+        "name": "lawworld417-ne-03-5f5862ef",
+        "path": "tasks/lawworld417-ne-03-5f5862ef"
+      },
+      {
+        "name": "lawworld417-ne-06-7d454c39",
+        "path": "tasks/lawworld417-ne-06-7d454c39"
+      },
+      {
+        "name": "lawworld433-anb-01-5d12cf8d",
+        "path": "tasks/lawworld433-anb-01-5d12cf8d"
+      },
+      {
+        "name": "lawworld433-anb-04-23234013",
+        "path": "tasks/lawworld433-anb-04-23234013"
+      },
+      {
+        "name": "lawworld433-anb-05-16cf8300",
+        "path": "tasks/lawworld433-anb-05-16cf8300"
+      },
+      {
+        "name": "lawworld433-naf-01-8a2d1647",
+        "path": "tasks/lawworld433-naf-01-8a2d1647"
+      },
+      {
+        "name": "lawworld433-naf-02-7cff5581",
+        "path": "tasks/lawworld433-naf-02-7cff5581"
+      },
+      {
+        "name": "shiva-task-01-world-129-fc919d98",
+        "path": "tasks/shiva-task-01-world-129-fc919d98"
+      },
+      {
+        "name": "sp-task-01-world-135-840af889",
+        "path": "tasks/sp-task-01-world-135-840af889"
+      },
+      {
+        "name": "sp-task-02-wold-135-8429838a",
+        "path": "tasks/sp-task-02-wold-135-8429838a"
+      },
+      {
+        "name": "sp-task-02-world-129-7c901287",
+        "path": "tasks/sp-task-02-world-129-7c901287"
+      },
+      {
+        "name": "sp-task-03-world-129-13560b57",
+        "path": "tasks/sp-task-03-world-129-13560b57"
+      },
+      {
+        "name": "sp-task-03-world-135-8617355f",
+        "path": "tasks/sp-task-03-world-135-8617355f"
+      },
+      {
+        "name": "sp-task-07-world-135-0a861743",
+        "path": "tasks/sp-task-07-world-135-0a861743"
+      },
+      {
+        "name": "task-128-pj-04-a1434323",
+        "path": "tasks/task-128-pj-04-a1434323"
+      },
+      {
+        "name": "task-14-24dc5ca2",
+        "path": "tasks/task-14-24dc5ca2"
+      },
+      {
+        "name": "task-3uy1546e-ac21a454",
+        "path": "tasks/task-3uy1546e-ac21a454"
+      },
+      {
+        "name": "task-4-c12de7ba",
+        "path": "tasks/task-4-c12de7ba"
+      },
+      {
+        "name": "task-5vd1ebb0-c4e34a72",
+        "path": "tasks/task-5vd1ebb0-c4e34a72"
+      },
+      {
+        "name": "task-acg14a6c-c782f25e",
+        "path": "tasks/task-acg14a6c-c782f25e"
+      },
+      {
+        "name": "task-awys8050-cd3c370b",
+        "path": "tasks/task-awys8050-cd3c370b"
+      },
+      {
+        "name": "task-ncwq9a4b-87065bf9",
+        "path": "tasks/task-ncwq9a4b-87065bf9"
+      },
+      {
+        "name": "task-o88f1452-c5369dfe",
+        "path": "tasks/task-o88f1452-c5369dfe"
+      },
+      {
+        "name": "task-seed-13-f7969453",
+        "path": "tasks/task-seed-13-f7969453"
+      },
+      {
+        "name": "task-unc2be9c-em-ef98d006",
+        "path": "tasks/task-unc2be9c-em-ef98d006"
+      },
+      {
+        "name": "task-w135-camille-moingeon-4-1cf93f93",
+        "path": "tasks/task-w135-camille-moingeon-4-1cf93f93"
+      },
+      {
+        "name": "task-w135-camille-moingeon-5-91534276",
+        "path": "tasks/task-w135-camille-moingeon-5-91534276"
+      },
+      {
+        "name": "task-w135-camille-moingeon-6-98904e4b",
+        "path": "tasks/task-w135-camille-moingeon-6-98904e4b"
+      },
+      {
+        "name": "task-world130-camillemoingeon-3-2f162fcc",
+        "path": "tasks/task-world130-camillemoingeon-3-2f162fcc"
+      },
+      {
+        "name": "task-world130-camillemoingeon-4-995235e6",
+        "path": "tasks/task-world130-camillemoingeon-4-995235e6"
+      },
+      {
+        "name": "task-yhzc9d1a-531a5446",
+        "path": "tasks/task-yhzc9d1a-531a5446"
+      },
+      {
+        "name": "task-ymtecb81-c206b308",
+        "path": "tasks/task-ymtecb81-c206b308"
+      },
+      {
+        "name": "taskworld130-camillemoingeon-5-0d2a857d",
+        "path": "tasks/taskworld130-camillemoingeon-5-0d2a857d"
+      },
+      {
+        "name": "w127-ah-task-7-d04aba36",
+        "path": "tasks/w127-ah-task-7-d04aba36"
+      },
+      {
+        "name": "w134-nancy-task-07-5f476e2b",
+        "path": "tasks/w134-nancy-task-07-5f476e2b"
+      },
+      {
+        "name": "w134-nancy-task-09-98c5b529",
+        "path": "tasks/w134-nancy-task-09-98c5b529"
+      },
+      {
+        "name": "w134-nancy-task-10-1bb0218b",
+        "path": "tasks/w134-nancy-task-10-1bb0218b"
+      },
+      {
+        "name": "world-127-ah-task-2-fe2ade3d",
+        "path": "tasks/world-127-ah-task-2-fe2ade3d"
+      },
+      {
+        "name": "world-127-am-task-02-ec3c5eb0",
+        "path": "tasks/world-127-am-task-02-ec3c5eb0"
+      },
+      {
+        "name": "world-127-hlv-task-01-37bd2041",
+        "path": "tasks/world-127-hlv-task-01-37bd2041"
+      },
+      {
+        "name": "world-127-hlv-task-03-de0803e6",
+        "path": "tasks/world-127-hlv-task-03-de0803e6"
+      },
+      {
+        "name": "world-127-hlv-task-04-31c097b3",
+        "path": "tasks/world-127-hlv-task-04-31c097b3"
+      },
+      {
+        "name": "world-127-tj-task-1-0-078e2b30",
+        "path": "tasks/world-127-tj-task-1-0-078e2b30"
+      },
+      {
+        "name": "world-127-tj-task-2-0-2a1410cf",
+        "path": "tasks/world-127-tj-task-2-0-2a1410cf"
+      },
+      {
+        "name": "world-127-tj-task-4-0-bbc81ebc",
+        "path": "tasks/world-127-tj-task-4-0-bbc81ebc"
+      },
+      {
+        "name": "world-128-nk-task-1-c49d8b70",
+        "path": "tasks/world-128-nk-task-1-c49d8b70"
+      },
+      {
+        "name": "world-128-sf-task-2-7bab9d72",
+        "path": "tasks/world-128-sf-task-2-7bab9d72"
+      },
+      {
+        "name": "world-129-cy-task-3-2bcdc3db",
+        "path": "tasks/world-129-cy-task-3-2bcdc3db"
+      },
+      {
+        "name": "world-129-cy-task-5-f9ad7ab3",
+        "path": "tasks/world-129-cy-task-5-f9ad7ab3"
+      },
+      {
+        "name": "world-129-cy-task-6-13a7957a",
+        "path": "tasks/world-129-cy-task-6-13a7957a"
+      },
+      {
+        "name": "world-131-jr-1-2930a41b",
+        "path": "tasks/world-131-jr-1-2930a41b"
+      },
+      {
+        "name": "world-131-mk-task-1-421d35da",
+        "path": "tasks/world-131-mk-task-1-421d35da"
+      },
+      {
+        "name": "world-131-mk-task-3-cbb8798f",
+        "path": "tasks/world-131-mk-task-3-cbb8798f"
+      },
+      {
+        "name": "world-131-mk-task-4-bd07e017",
+        "path": "tasks/world-131-mk-task-4-bd07e017"
+      },
+      {
+        "name": "world-133-el-task-03-4657445f",
+        "path": "tasks/world-133-el-task-03-4657445f"
+      },
+      {
+        "name": "world-133-nk-task-1-f0bbc839",
+        "path": "tasks/world-133-nk-task-1-f0bbc839"
+      },
+      {
+        "name": "world-134-nancy-task-02-3f38c565",
+        "path": "tasks/world-134-nancy-task-02-3f38c565"
+      },
+      {
+        "name": "world-134-nancy-task-04-7fbb9e35",
+        "path": "tasks/world-134-nancy-task-04-7fbb9e35"
+      },
+      {
+        "name": "world-134-nancy-task-05-2aa85715",
+        "path": "tasks/world-134-nancy-task-05-2aa85715"
+      },
+      {
+        "name": "world-134-rg-03-92e95834",
+        "path": "tasks/world-134-rg-03-92e95834"
+      },
+      {
+        "name": "world-134-rg-04-4498da8f",
+        "path": "tasks/world-134-rg-04-4498da8f"
+      },
+      {
+        "name": "world-134-rg-05-0b032d90",
+        "path": "tasks/world-134-rg-05-0b032d90"
+      },
+      {
+        "name": "world-135-cd-01-e5cc5e24",
+        "path": "tasks/world-135-cd-01-e5cc5e24"
+      },
+      {
+        "name": "world-219-ae-task-4-af0bc0f9",
+        "path": "tasks/world-219-ae-task-4-af0bc0f9"
+      },
+      {
+        "name": "world-221-hy-05-fa5120b0",
+        "path": "tasks/world-221-hy-05-fa5120b0"
+      },
+      {
+        "name": "world-223-ae-task-01-0e08a3d7",
+        "path": "tasks/world-223-ae-task-01-0e08a3d7"
+      },
+      {
+        "name": "world-225-je-01-70449b2d",
+        "path": "tasks/world-225-je-01-70449b2d"
+      },
+      {
+        "name": "world-225-je-06-d1f7e2bc",
+        "path": "tasks/world-225-je-06-d1f7e2bc"
+      },
+      {
+        "name": "world-415-cd-02-c04aeb09",
+        "path": "tasks/world-415-cd-02-c04aeb09"
+      },
+      {
+        "name": "world-418-apa-01-a9e837e3",
+        "path": "tasks/world-418-apa-01-a9e837e3"
+      },
+      {
+        "name": "world-419-um-01-ddd3e22e",
+        "path": "tasks/world-419-um-01-ddd3e22e"
+      },
+      {
+        "name": "world-420-lb-02-d6b33bef",
+        "path": "tasks/world-420-lb-02-d6b33bef"
+      },
+      {
+        "name": "world-420-lb-03-6e37bd28",
+        "path": "tasks/world-420-lb-03-6e37bd28"
+      },
+      {
+        "name": "world-420-lb-06-4c9d88b3",
+        "path": "tasks/world-420-lb-06-4c9d88b3"
+      },
+      {
+        "name": "world-420-zt-02-e3d12861",
+        "path": "tasks/world-420-zt-02-e3d12861"
+      },
+      {
+        "name": "world-421-anb-02-2da2824a",
+        "path": "tasks/world-421-anb-02-2da2824a"
+      },
+      {
+        "name": "world-421-oo-01-9398ad52",
+        "path": "tasks/world-421-oo-01-9398ad52"
+      },
+      {
+        "name": "world112-1-task05-na-cf44bbb8",
+        "path": "tasks/world112-1-task05-na-cf44bbb8"
+      },
+      {
+        "name": "world112-1-tk-04-b26de1cb",
+        "path": "tasks/world112-1-tk-04-b26de1cb"
+      },
+      {
+        "name": "world126-efa-01-9bf2f9d9",
+        "path": "tasks/world126-efa-01-9bf2f9d9"
+      },
+      {
+        "name": "world126-efa-04-bbf2e15f",
+        "path": "tasks/world126-efa-04-bbf2e15f"
+      },
+      {
+        "name": "world126-efa-05-501b62f6",
+        "path": "tasks/world126-efa-05-501b62f6"
+      },
+      {
+        "name": "world126-jd-04-dc4fd808",
+        "path": "tasks/world126-jd-04-dc4fd808"
+      },
+      {
+        "name": "world126-tk-04-f9002145",
+        "path": "tasks/world126-tk-04-f9002145"
+      },
+      {
+        "name": "world127-ak-task03-09619393",
+        "path": "tasks/world127-ak-task03-09619393"
+      },
+      {
+        "name": "world127-am-task03-cab85eb0",
+        "path": "tasks/world127-am-task03-cab85eb0"
+      },
+      {
+        "name": "world130-al-zhoheir-hajim-04-f7f9a788",
+        "path": "tasks/world130-al-zhoheir-hajim-04-f7f9a788"
+      },
+      {
+        "name": "world130-al-zhoheir-hajim-3-6f313e08",
+        "path": "tasks/world130-al-zhoheir-hajim-3-6f313e08"
+      },
+      {
+        "name": "world130-ho-08-991a7efc",
+        "path": "tasks/world130-ho-08-991a7efc"
+      },
+      {
+        "name": "world131-dv-03-152afeb3",
+        "path": "tasks/world131-dv-03-152afeb3"
+      },
+      {
+        "name": "world131-dv-05-591f7fcf",
+        "path": "tasks/world131-dv-05-591f7fcf"
+      },
+      {
+        "name": "world131-ib-05-3c0a977d",
+        "path": "tasks/world131-ib-05-3c0a977d"
+      },
+      {
+        "name": "world131-md-01-28df6b25",
+        "path": "tasks/world131-md-01-28df6b25"
+      },
+      {
+        "name": "world132-da-task03-3db0b339",
+        "path": "tasks/world132-da-task03-3db0b339"
+      },
+      {
+        "name": "world132-da-task05-a025ddde",
+        "path": "tasks/world132-da-task05-a025ddde"
+      },
+      {
+        "name": "world132-da-task07-d7bf24d6",
+        "path": "tasks/world132-da-task07-d7bf24d6"
+      },
+      {
+        "name": "world132-da-task08-15096439",
+        "path": "tasks/world132-da-task08-15096439"
+      },
+      {
+        "name": "world132-pm-task03-e3766de4",
+        "path": "tasks/world132-pm-task03-e3766de4"
+      },
+      {
+        "name": "world132-pm-task04-7cc783d8",
+        "path": "tasks/world132-pm-task04-7cc783d8"
+      },
+      {
+        "name": "world132-pm-task07-b206dfe1",
+        "path": "tasks/world132-pm-task07-b206dfe1"
+      },
+      {
+        "name": "world132-sf-task03-d7ca6183",
+        "path": "tasks/world132-sf-task03-d7ca6183"
+      },
+      {
+        "name": "world133-ln-04-009ff905",
+        "path": "tasks/world133-ln-04-009ff905"
+      },
+      {
+        "name": "world133-ln-05-b989446d",
+        "path": "tasks/world133-ln-05-b989446d"
+      },
+      {
+        "name": "world135-sf-task03-5716be6e",
+        "path": "tasks/world135-sf-task03-5716be6e"
+      },
+      {
+        "name": "world219-ff-task2-8e52be5a",
+        "path": "tasks/world219-ff-task2-8e52be5a"
+      },
+      {
+        "name": "world219-oa-task1-318342af",
+        "path": "tasks/world219-oa-task1-318342af"
+      },
+      {
+        "name": "world219-seed-task-04-559be363",
+        "path": "tasks/world219-seed-task-04-559be363"
+      },
+      {
+        "name": "world219-seed-task-06-334dea71",
+        "path": "tasks/world219-seed-task-06-334dea71"
+      },
+      {
+        "name": "world219-seed-task-09-ff-9da08494",
+        "path": "tasks/world219-seed-task-09-ff-9da08494"
+      },
+      {
+        "name": "world219-tg-01-8c93245b",
+        "path": "tasks/world219-tg-01-8c93245b"
+      },
+      {
+        "name": "world219-tg-04-d08a16f0",
+        "path": "tasks/world219-tg-04-d08a16f0"
+      },
+      {
+        "name": "world219-tg-05-9854aa2d",
+        "path": "tasks/world219-tg-05-9854aa2d"
+      },
+      {
+        "name": "world219-tg-06-45c556b3",
+        "path": "tasks/world219-tg-06-45c556b3"
+      },
+      {
+        "name": "world221-hy-01-e2ae04a7",
+        "path": "tasks/world221-hy-01-e2ae04a7"
+      },
+      {
+        "name": "world221-oa-2-44073f52",
+        "path": "tasks/world221-oa-2-44073f52"
+      },
+      {
+        "name": "world221-oa-3-d4497b80",
+        "path": "tasks/world221-oa-3-d4497b80"
+      },
+      {
+        "name": "world221-oa-4-7d9c6888",
+        "path": "tasks/world221-oa-4-7d9c6888"
+      },
+      {
+        "name": "world221-oa-8-67be0af1",
+        "path": "tasks/world221-oa-8-67be0af1"
+      },
+      {
+        "name": "world221-oa-9-f98a186a",
+        "path": "tasks/world221-oa-9-f98a186a"
+      },
+      {
+        "name": "world221-tr-01-d4fc3833",
+        "path": "tasks/world221-tr-01-d4fc3833"
+      },
+      {
+        "name": "world221-tr-10-39f4923f",
+        "path": "tasks/world221-tr-10-39f4923f"
+      },
+      {
+        "name": "world223-av-01-abaf6982",
+        "path": "tasks/world223-av-01-abaf6982"
+      },
+      {
+        "name": "world223-av-03-5e929377",
+        "path": "tasks/world223-av-03-5e929377"
+      },
+      {
+        "name": "world223-av-04-3397c759",
+        "path": "tasks/world223-av-04-3397c759"
+      },
+      {
+        "name": "world223-es-01-4e64f4e3",
+        "path": "tasks/world223-es-01-4e64f4e3"
+      },
+      {
+        "name": "world223-es-02-965b01c7",
+        "path": "tasks/world223-es-02-965b01c7"
+      },
+      {
+        "name": "world223-es-05-e6fedd35",
+        "path": "tasks/world223-es-05-e6fedd35"
+      },
+      {
+        "name": "world223-ob-04-c69e2b2a",
+        "path": "tasks/world223-ob-04-c69e2b2a"
+      },
+      {
+        "name": "world223-smn-02-088bee6c",
+        "path": "tasks/world223-smn-02-088bee6c"
+      },
+      {
+        "name": "world223-smn-04-c38a392f",
+        "path": "tasks/world223-smn-04-c38a392f"
+      },
+      {
+        "name": "world223-smn-05-b00d08c1",
+        "path": "tasks/world223-smn-05-b00d08c1"
+      },
+      {
+        "name": "world223-smn-08-a0a05e88",
+        "path": "tasks/world223-smn-08-a0a05e88"
+      },
+      {
+        "name": "world224-hs-02-2ba35245",
+        "path": "tasks/world224-hs-02-2ba35245"
+      },
+      {
+        "name": "world224-hs-05-f8ba862f",
+        "path": "tasks/world224-hs-05-f8ba862f"
+      },
+      {
+        "name": "world224-hs-09-56aefeb6",
+        "path": "tasks/world224-hs-09-56aefeb6"
+      },
+      {
+        "name": "world224-hs-10-4f232c35",
+        "path": "tasks/world224-hs-10-4f232c35"
+      },
+      {
+        "name": "world224-hs-11-7bf318b0",
+        "path": "tasks/world224-hs-11-7bf318b0"
+      },
+      {
+        "name": "world224-jr-02-a4bb5a54",
+        "path": "tasks/world224-jr-02-a4bb5a54"
+      },
+      {
+        "name": "world224-os-task02-a3a73f46",
+        "path": "tasks/world224-os-task02-a3a73f46"
+      },
+      {
+        "name": "world224-os-task04-c5d0e9d7",
+        "path": "tasks/world224-os-task04-c5d0e9d7"
+      },
+      {
+        "name": "world224-os-task05-16446237",
+        "path": "tasks/world224-os-task05-16446237"
+      },
+      {
+        "name": "world224-sk-task01-f8b6f40d",
+        "path": "tasks/world224-sk-task01-f8b6f40d"
+      },
+      {
+        "name": "world224-sk-task03-dfcbb713",
+        "path": "tasks/world224-sk-task03-dfcbb713"
+      },
+      {
+        "name": "world225-av-02-55d8f94f",
+        "path": "tasks/world225-av-02-55d8f94f"
+      },
+      {
+        "name": "world225-dk-01-013dab88",
+        "path": "tasks/world225-dk-01-013dab88"
+      },
+      {
+        "name": "world225-dk-02-1f9714bb",
+        "path": "tasks/world225-dk-02-1f9714bb"
+      },
+      {
+        "name": "world225-km-06-19899d4e",
+        "path": "tasks/world225-km-06-19899d4e"
+      },
+      {
+        "name": "world225-mb-03-9e4a1b17",
+        "path": "tasks/world225-mb-03-9e4a1b17"
+      },
+      {
+        "name": "world225-nb-04-ad89d7af",
+        "path": "tasks/world225-nb-04-ad89d7af"
+      },
+      {
+        "name": "world225-rl-task01-45ba9aaf",
+        "path": "tasks/world225-rl-task01-45ba9aaf"
+      },
+      {
+        "name": "world225-rl-task02-56fc4617",
+        "path": "tasks/world225-rl-task02-56fc4617"
+      },
+      {
+        "name": "world225-rl-task04-04cd11af",
+        "path": "tasks/world225-rl-task04-04cd11af"
+      },
+      {
+        "name": "world226-rm-02-08c62dec",
+        "path": "tasks/world226-rm-02-08c62dec"
+      },
+      {
+        "name": "world226-rm-04-8d085d2b",
+        "path": "tasks/world226-rm-04-8d085d2b"
+      },
+      {
+        "name": "world226-rm-06-17f6c991",
+        "path": "tasks/world226-rm-06-17f6c991"
+      },
+      {
+        "name": "world226-sk-task03-a0be269a",
+        "path": "tasks/world226-sk-task03-a0be269a"
+      },
+      {
+        "name": "world226-ta-01-c945f64f",
+        "path": "tasks/world226-ta-01-c945f64f"
+      },
+      {
+        "name": "world226-td-01-eb948f85",
+        "path": "tasks/world226-td-01-eb948f85"
+      },
+      {
+        "name": "world226-td-02-02f66e09",
+        "path": "tasks/world226-td-02-02f66e09"
+      },
+      {
+        "name": "world226-td-03-a329bd13",
+        "path": "tasks/world226-td-03-a329bd13"
+      },
+      {
+        "name": "world227-jz-task03-135a8483",
+        "path": "tasks/world227-jz-task03-135a8483"
+      },
+      {
+        "name": "world227-sk-task03-8ad609bc",
+        "path": "tasks/world227-sk-task03-8ad609bc"
+      },
+      {
+        "name": "world227-sk-task06-ad8e3628",
+        "path": "tasks/world227-sk-task06-ad8e3628"
+      },
+      {
+        "name": "world227-sk-task07-d2f6c00c",
+        "path": "tasks/world227-sk-task07-d2f6c00c"
+      },
+      {
+        "name": "world227-sk-task08-b138d09f",
+        "path": "tasks/world227-sk-task08-b138d09f"
+      },
+      {
+        "name": "world227-tg-02-04c3b6c7",
+        "path": "tasks/world227-tg-02-04c3b6c7"
+      },
+      {
+        "name": "world227-tg-07-c2f84823",
+        "path": "tasks/world227-tg-07-c2f84823"
+      },
+      {
+        "name": "world227-tg-08-58b05f68",
+        "path": "tasks/world227-tg-08-58b05f68"
+      },
+      {
+        "name": "world228-ia-02-eae0b563",
+        "path": "tasks/world228-ia-02-eae0b563"
+      },
+      {
+        "name": "world228-jk-01-08d7bf2c",
+        "path": "tasks/world228-jk-01-08d7bf2c"
+      },
+      {
+        "name": "world228-jk-02-78243c40",
+        "path": "tasks/world228-jk-02-78243c40"
+      },
+      {
+        "name": "world228-jp-01-9700a477",
+        "path": "tasks/world228-jp-01-9700a477"
+      },
+      {
+        "name": "world228-jp-02-141aa009",
+        "path": "tasks/world228-jp-02-141aa009"
+      },
+      {
+        "name": "world228-jp-05-8f936239",
+        "path": "tasks/world228-jp-05-8f936239"
+      },
+      {
+        "name": "world228-sm-task02-b0448b54",
+        "path": "tasks/world228-sm-task02-b0448b54"
+      },
+      {
+        "name": "world228-sm-task04-2add8328",
+        "path": "tasks/world228-sm-task04-2add8328"
+      },
+      {
+        "name": "world228-sm-task06-148a274e",
+        "path": "tasks/world228-sm-task06-148a274e"
+      },
+      {
+        "name": "world228-sm-task08-11f60d76",
+        "path": "tasks/world228-sm-task08-11f60d76"
+      },
+      {
+        "name": "world228-sm-task10-d0d1a118",
+        "path": "tasks/world228-sm-task10-d0d1a118"
+      },
+      {
+        "name": "world415-dm-01-b7605edf",
+        "path": "tasks/world415-dm-01-b7605edf"
+      },
+      {
+        "name": "world415-im-01-84006694",
+        "path": "tasks/world415-im-01-84006694"
+      },
+      {
+        "name": "world416-js-01-44b9046f",
+        "path": "tasks/world416-js-01-44b9046f"
+      },
+      {
+        "name": "world416-js-02-029d3e95",
+        "path": "tasks/world416-js-02-029d3e95"
+      },
+      {
+        "name": "world416-tk-02-9ff1dc24",
+        "path": "tasks/world416-tk-02-9ff1dc24"
+      },
+      {
+        "name": "world417-tg-03-83b4a9e2",
+        "path": "tasks/world417-tg-03-83b4a9e2"
+      },
+      {
+        "name": "world417-ts-04-ba4d7322",
+        "path": "tasks/world417-ts-04-ba4d7322"
+      },
+      {
+        "name": "world418-ah-01-88f58446",
+        "path": "tasks/world418-ah-01-88f58446"
+      },
+      {
+        "name": "world418-ek-01-13050e0a",
+        "path": "tasks/world418-ek-01-13050e0a"
+      },
+      {
+        "name": "world418-tk-01-50b3b6a8",
+        "path": "tasks/world418-tk-01-50b3b6a8"
+      },
+      {
+        "name": "world418-tk-02-8ca3247c",
+        "path": "tasks/world418-tk-02-8ca3247c"
+      },
+      {
+        "name": "world418-tk-03-c03b8f6a",
+        "path": "tasks/world418-tk-03-c03b8f6a"
+      },
+      {
+        "name": "world419-ah-02-1a47e5fd",
+        "path": "tasks/world419-ah-02-1a47e5fd"
+      },
+      {
+        "name": "world419-ah-03-79e0977c",
+        "path": "tasks/world419-ah-03-79e0977c"
+      },
+      {
+        "name": "world419-um-04-d0f9f0ee",
+        "path": "tasks/world419-um-04-d0f9f0ee"
+      },
+      {
+        "name": "world420-am-02-0e29a58c",
+        "path": "tasks/world420-am-02-0e29a58c"
+      },
+      {
+        "name": "world420-ro-01-49039ba3",
+        "path": "tasks/world420-ro-01-49039ba3"
+      },
+      {
+        "name": "world420-sf-02-a71743f3",
+        "path": "tasks/world420-sf-02-a71743f3"
+      },
+      {
+        "name": "world421-ap-02-930732dc",
+        "path": "tasks/world421-ap-02-930732dc"
+      },
+      {
+        "name": "world421-el-03-abf41e5b",
+        "path": "tasks/world421-el-03-abf41e5b"
+      },
+      {
+        "name": "world421-oo-02-13543200",
+        "path": "tasks/world421-oo-02-13543200"
+      },
+      {
+        "name": "world421-tg-02-f7dea046",
+        "path": "tasks/world421-tg-02-f7dea046"
+      },
+      {
+        "name": "world421-tg-03-860d1b66",
+        "path": "tasks/world421-tg-03-860d1b66"
+      },
+      {
+        "name": "world423-dpm-01-178fcb61",
+        "path": "tasks/world423-dpm-01-178fcb61"
+      },
+      {
+        "name": "world423-dpm-02-4263f118",
+        "path": "tasks/world423-dpm-02-4263f118"
+      },
+      {
+        "name": "world423-js-01-9efac80a",
+        "path": "tasks/world423-js-01-9efac80a"
+      },
+      {
+        "name": "world423-js-02-28821806",
+        "path": "tasks/world423-js-02-28821806"
+      },
+      {
+        "name": "world423-js-03-ee6e557e",
+        "path": "tasks/world423-js-03-ee6e557e"
+      },
+      {
+        "name": "world425-jcf-01-e1dfe9ed",
+        "path": "tasks/world425-jcf-01-e1dfe9ed"
+      },
+      {
+        "name": "world425-jcf-02-9f502d4d",
+        "path": "tasks/world425-jcf-02-9f502d4d"
+      },
+      {
+        "name": "world425-jcf-03-09bdbd1a",
+        "path": "tasks/world425-jcf-03-09bdbd1a"
+      },
+      {
+        "name": "world425-tas-01-82e745dd",
+        "path": "tasks/world425-tas-01-82e745dd"
+      },
+      {
+        "name": "world425-tas-02-ac7e521e",
+        "path": "tasks/world425-tas-02-ac7e521e"
+      },
+      {
+        "name": "world425-tas-05-2c185600",
+        "path": "tasks/world425-tas-05-2c185600"
+      },
+      {
+        "name": "world431-amk-01-5840c72a",
+        "path": "tasks/world431-amk-01-5840c72a"
+      },
+      {
+        "name": "world431-amk-02-78a4d3ea",
+        "path": "tasks/world431-amk-02-78a4d3ea"
+      },
+      {
+        "name": "world431-avk-01-4e761f5b",
+        "path": "tasks/world431-avk-01-4e761f5b"
+      },
+      {
+        "name": "world431-dm-01-b4b1d7a0",
+        "path": "tasks/world431-dm-01-b4b1d7a0"
+      },
+      {
+        "name": "world431-jcf-01-3d85cec9",
+        "path": "tasks/world431-jcf-01-3d85cec9"
+      },
+      {
+        "name": "world431task-el-01-6ec3da62",
+        "path": "tasks/world431task-el-01-6ec3da62"
+      },
+      {
+        "name": "world433-js-04-b2ea95d5",
+        "path": "tasks/world433-js-04-b2ea95d5"
+      },
+      {
+        "name": "world433-js-05-bc0d94bf",
+        "path": "tasks/world433-js-05-bc0d94bf"
+      },
+      {
+        "name": "world433-sg-01-a23ecfdf",
+        "path": "tasks/world433-sg-01-a23ecfdf"
+      },
+      {
+        "name": "world434-ah-01-f0eb6d9f",
+        "path": "tasks/world434-ah-01-f0eb6d9f"
+      },
+      {
+        "name": "world434-ah-05-0ad4be07",
+        "path": "tasks/world434-ah-05-0ad4be07"
+      },
+      {
+        "name": "world434-dpm-01-69a99cb9",
+        "path": "tasks/world434-dpm-01-69a99cb9"
+      },
+      {
+        "name": "world434-js-01-aedf3ab0",
+        "path": "tasks/world434-js-01-aedf3ab0"
+      },
+      {
+        "name": "world434-js-03-306ae67e",
+        "path": "tasks/world434-js-03-306ae67e"
+      },
+      {
+        "name": "world434-js-04-2212abef",
+        "path": "tasks/world434-js-04-2212abef"
+      }
+    ]
+  }
+]

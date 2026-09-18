@@ -1,0 +1,33 @@
+name: mirror-images
+
+# Copies the release's 33 images (31 worlds, agent, verifier) from Mercor's
+# public ECR repository to ghcr.io/osmosis-ai/apex-agents-1-1 at their original
+# digests, then checks that every digest is pullable anonymously, which is how
+# Daytona sandboxes pull. Run by hand after a manifest change, or on a release tag.
+
+on:
+  workflow_dispatch:
+  push:
+    tags: ["v*"]
+
+permissions:
+  contents: read
+  packages: write
+
+concurrency: mirror-images
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    timeout-minutes: 240
+    steps:
+      - uses: actions/checkout@v4
+      - uses: imjasonh/setup-crane@v0.4
+      - name: Log in to ghcr.io
+        run: echo "${{ secrets.GITHUB_TOKEN }}" | crane auth login ghcr.io --username "${{ github.actor }}" --password-stdin
+      - name: Copy images at their original digests
+        run: python3 scripts/mirror.py
+      - name: Verify anonymous pulls
+        run: |
+          crane auth logout ghcr.io
+          python3 scripts/mirror.py --check

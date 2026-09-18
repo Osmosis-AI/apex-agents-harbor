@@ -1,0 +1,15 @@
+name: validate
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+    tags: ["v*"]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate the committed tree against the manifest
+        run: python3 scripts/generate.py --check

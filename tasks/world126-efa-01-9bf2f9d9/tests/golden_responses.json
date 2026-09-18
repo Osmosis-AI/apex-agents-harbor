@@ -1,0 +1,7 @@
+[
+  {
+    "golden_text_response": "Here are the answers to your questions.\n\n*The top 3 sub-regions by overall risk score*\nThe sub-region with the highest overall risk score is 83.70.\nThe sub-region with the second highest overall risk score is 83.55.\nThe sub-region with the third highest overall risk score is 75.30.\n\n*The average risk scores for each continent*\nNorth America\t54.69\nSouth America\t63.97\nEurope\t41.95\nAfrica \t73.95\nAsia\t67.80\nOceania\t59.81\n\n*Standard deviation*\nThe std of average risk scores is 15.18.",
+    "golden_file_responses": null,
+    "golden_files_path": null
+  }
+]
