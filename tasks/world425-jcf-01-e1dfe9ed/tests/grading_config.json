@@ -7,7 +7,7 @@
     "expected_output": "edit_existing_doc"
   },
   "grading_settings": {
-    "llm_judge_model": "fireworks_ai/accounts/fireworks/models/deepseek-v4-flash-0731",
+    "llm_judge_model": "vercel_ai_gateway/deepseek/deepseek-v4-flash-0731",
     "llm_judge_extra_args": {
       "temperature": 0.1
     },

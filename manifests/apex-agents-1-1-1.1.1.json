@@ -1,0 +1,265 @@
+{
+  "schema_version": 1,
+  "dataset": {
+    "name": "apex-agents-1-1",
+    "version": "1.1.1",
+    "task_count": 240
+  },
+  "upstream": {
+    "harbor_hub_dataset": "mercor/apex-agents-1-1@1.1.1",
+    "harbor_hub_revision": 18,
+    "huggingface_dataset": "mercor/apex-agents-v1.1",
+    "publisher": "Mercor",
+    "license": "CC-BY-4.0",
+    "terms": "Evaluation only; training, fine-tuning, or parameter fitting on the benchmark is forbidden by the publisher."
+  },
+  "companion_agent": {
+    "repository": "Mercor-Intelligence/apex_loop_truncated_tools_agent",
+    "commit": "9d99c6f11b40f31364e789f214c92b480f8b1c61"
+  },
+  "changes_from_upstream": [
+    "[environment].docker_image in task.toml repointed to the mirror (same digest)",
+    "world image in environment/docker-compose.yaml repointed to the mirror (same digest)",
+    "FROM in tests/Dockerfile repointed to the mirror (same digest)"
+  ],
+  "harbor_task_name_prefix": "mercor/",
+  "result_task_name_prefix": null,
+  "domains": {
+    "Investment Banking": 80,
+    "Law": 80,
+    "Management Consulting": 80
+  },
+  "snapshot_tasks": 34,
+  "images": {
+    "source_registry": "public.ecr.aws/k4t1e3r5/harbor-hub",
+    "mirror": "ghcr.io/osmosis-ai/apex-agents-1-1",
+    "platform": "linux/amd64",
+    "agent": {
+      "tag": "1.1.1-agent",
+      "digest": "sha256:9be28bae20bc6027715df7f81e1d725d5c85dd3edd6669f8736a6a575a0bbcc2"
+    },
+    "verifier": {
+      "tag": "1.1.1-verifier",
+      "digest": "sha256:19f9601e17b39a6c8c20a86971c296a915600e3cdd127c35957704cdd80591b2"
+    },
+    "worlds": {
+      "world_02ce2dd092de4afb9342b753b5f9026d": {
+        "tag": "1.1.1-world-02ce2dd092de",
+        "digest": "sha256:ea918fdc2bf44a5f974e286853e429b774960ba3085c7013f3a4311a3aa443be",
+        "world_slug": "management-consulting-world-133-benchmark--(world_02ce2dd092de4afb9342b753b5f9026d)",
+        "domain": "Management Consulting",
+        "task_count": 6
+      },
+      "world_078a3672973d4f44b412fd9e006a77a2": {
+        "tag": "1.1.1-world-078a3672973d",
+        "digest": "sha256:e2c69b1e5686572341a96deed6251767bbd5785c40f2e56104a97fb7fd20c119",
+        "world_slug": "management-consulting-world-127-benchmark--(world_078a3672973d4f44b412fd9e006a77a2)",
+        "domain": "Management Consulting",
+        "task_count": 11
+      },
+      "world_0ab16d4266bd4232b20d1d3004850644": {
+        "tag": "1.1.1-world-0ab16d4266bd",
+        "digest": "sha256:35685f045d91ef7b580e2d589984ed10211821014fb91d533a6572e268f7c691",
+        "world_slug": "management-consulting-world-132-benchmark--(world_0ab16d4266bd4232b20d1d3004850644)",
+        "domain": "Management Consulting",
+        "task_count": 8
+      },
+      "world_3d8830f685594021bd1dcec2d19f3246": {
+        "tag": "1.1.1-world-3d8830f68559",
+        "digest": "sha256:4a71f0a2ba8cdf8898bf34b8d934d7147206cedc09ed6d36f6169f0620cac8f6",
+        "world_slug": "investment-banking-world-227-benchmark--(world_3d8830f685594021bd1dcec2d19f3246)",
+        "domain": "Investment Banking",
+        "task_count": 8
+      },
+      "world_441a2d9762bb414698e0b18d292b87e0": {
+        "tag": "1.1.1-world-441a2d9762bb",
+        "digest": "sha256:05557b66c64966028f7e55f8e2aab46cf9091356f31fd918dc696173cf42bcc4",
+        "world_slug": "law-world-419-benchmark--(world_441a2d9762bb414698e0b18d292b87e0)",
+        "domain": "Law",
+        "task_count": 4
+      },
+      "world_444990f2d95b430895c716e221ad486e": {
+        "tag": "1.1.1-world-444990f2d95b",
+        "digest": "sha256:e2b62976202f9a3484fc898efb2a1047134dd77cde472658be5fdd92feaabcad",
+        "world_slug": "law-world-423-benchmark--(world_444990f2d95b430895c716e221ad486e)",
+        "domain": "Law",
+        "task_count": 8
+      },
+      "world_48bc027e1b2f47a9946b13fcd72df2a8": {
+        "tag": "1.1.1-world-48bc027e1b2f",
+        "digest": "sha256:f7470483d7f002e3fa0860c7983d9c9e4bc26533b4d5fa13d835a42454dc1d83",
+        "world_slug": "law-world-433-benchmark--(world_48bc027e1b2f47a9946b13fcd72df2a8)",
+        "domain": "Law",
+        "task_count": 10
+      },
+      "world_48c823b39afa48f5840b50ce105a4af2": {
+        "tag": "1.1.1-world-48c823b39afa",
+        "digest": "sha256:eb9df82aede2360cfd9bed1daedb994c06e19d5953c6556a44d1d5e351b3f904",
+        "world_slug": "investment-banking-world-225-benchmark--(world_48c823b39afa48f5840b50ce105a4af2)",
+        "domain": "Investment Banking",
+        "task_count": 11
+      },
+      "world_4cc0a2905f154dd59dcdd6aca95ff9d5": {
+        "tag": "1.1.1-world-4cc0a2905f15",
+        "digest": "sha256:ec49e2ac8c7a4443f4f76a832db2f49715fe9c06bfc419fb69f13a6d9c89ceab",
+        "world_slug": "investment-banking-world-228-benchmark--(world_4cc0a2905f154dd59dcdd6aca95ff9d5)",
+        "domain": "Investment Banking",
+        "task_count": 11
+      },
+      "world_6773bae985ac499d8269e5b2ac837f05": {
+        "tag": "1.1.1-world-6773bae985ac",
+        "digest": "sha256:24ca41f65a8be5157620f4440610eb71a8c51a98f7b7e8fa230280b54c3d28e3",
+        "world_slug": "investment-banking-world-226-benchmark--(world_6773bae985ac499d8269e5b2ac837f05)",
+        "domain": "Investment Banking",
+        "task_count": 8
+      },
+      "world_73291ebd4b294cb699fd768aa86cbe36": {
+        "tag": "1.1.1-world-73291ebd4b29",
+        "digest": "sha256:fd41af222cdc6428cb1aefc61dc6bc7b4d4a119b539c21d4afb3028c690245d5",
+        "world_slug": "management-consulting-world-130-benchmark--(world_73291ebd4b294cb699fd768aa86cbe36)",
+        "domain": "Management Consulting",
+        "task_count": 6
+      },
+      "world_87ba2a78e0ed40399f77d57db40ce7ff": {
+        "tag": "1.1.1-world-87ba2a78e0ed",
+        "digest": "sha256:aaa2801a53f38c369dd6f0d147472473a5b19475ee74d009c16ec429dbe62b2e",
+        "world_slug": "law-world-431-benchmark--(world_87ba2a78e0ed40399f77d57db40ce7ff)",
+        "domain": "Law",
+        "task_count": 6
+      },
+      "world_8aa2e6c2d7494113bbf087a9f7490810": {
+        "tag": "1.1.1-world-8aa2e6c2d749",
+        "digest": "sha256:6ea1eba4213bbb2e13a295915106819688e8eb3e04a834e46e8012a7820c2762",
+        "world_slug": "law-world-421-benchmark--(world_8aa2e6c2d7494113bbf087a9f7490810)",
+        "domain": "Law",
+        "task_count": 7
+      },
+      "world_8cbe51a9ad3d41448bf9b97b68e5fbb2": {
+        "tag": "1.1.1-world-8cbe51a9ad3d",
+        "digest": "sha256:f2c18cb49bc56c9b7b9482001cbc57f773278a39e824620dca4138b23b7df4de",
+        "world_slug": "investment-banking-world-223-benchmark--(world_8cbe51a9ad3d41448bf9b97b68e5fbb2)",
+        "domain": "Investment Banking",
+        "task_count": 12
+      },
+      "world_9461094512de43bb9bd62db53b9d313f": {
+        "tag": "1.1.1-world-9461094512de",
+        "digest": "sha256:148d6a46c34b9f1b40266067dd22da5850145e1e8cfdf1b6531d8cbce5885b0f",
+        "world_slug": "management-consulting-world-131-benchmark--(world_9461094512de43bb9bd62db53b9d313f)",
+        "domain": "Management Consulting",
+        "task_count": 8
+      },
+      "world_a52c1271b072453383ffe7e216e33d0c": {
+        "tag": "1.1.1-world-a52c1271b072",
+        "digest": "sha256:bab7bd77a3f27a77001bc9aa3d366970fb896b61d4cb07190eaae242da69fe8f",
+        "world_slug": "law-world-425-benchmark--(world_a52c1271b072453383ffe7e216e33d0c)",
+        "domain": "Law",
+        "task_count": 6
+      },
+      "world_a922ae91ac0f4a1d8ecbb6e35c01e9e5": {
+        "tag": "1.1.1-world-a922ae91ac0f",
+        "digest": "sha256:f1671d9cb86ea7a30f5a4a6971a6a4087c07d3a763f219d6f2b22f067649ff1f",
+        "world_slug": "law-world-415-benchmark--(world_a922ae91ac0f4a1d8ecbb6e35c01e9e5)",
+        "domain": "Law",
+        "task_count": 7
+      },
+      "world_a957c01e08e340899f314d5235e559e2": {
+        "tag": "1.1.1-world-a957c01e08e3",
+        "digest": "sha256:417e7ea39d03dd6791c8cc9305243cd564fa0d6ec9ad6411022d1a14a41bb3d0",
+        "world_slug": "investment-banking-world-224-benchmark--(world_a957c01e08e340899f314d5235e559e2)",
+        "domain": "Investment Banking",
+        "task_count": 11
+      },
+      "world_aad4f5dbec7d4b0a99a4a234528a03ce": {
+        "tag": "1.1.1-world-aad4f5dbec7d",
+        "digest": "sha256:6f701086a272048ec054fe803dbf258297df47e3ee62191349f58c31cd6970e5",
+        "world_slug": "investment-banking-world-221-benchmark--(world_aad4f5dbec7d4b0a99a4a234528a03ce)",
+        "domain": "Investment Banking",
+        "task_count": 9
+      },
+      "world_bb003d66230d41f7a102d993c2646ba5": {
+        "tag": "1.1.1-world-bb003d66230d",
+        "digest": "sha256:d65a9972f99b3c4f61a2aafe86120bf2800c6a027515911ebfc89a4fc38d66ad",
+        "world_slug": "management-consulting-world-128-benchmark--(world_bb003d66230d41f7a102d993c2646ba5)",
+        "domain": "Management Consulting",
+        "task_count": 4
+      },
+      "world_be480063c3c94e26a04a08b0fc64d8f3": {
+        "tag": "1.1.1-world-be480063c3c9",
+        "digest": "sha256:f1cf84aff4a083e3c00e20a45fdc781fb6a24a7afb3283cb80b867ebd2fd77bf",
+        "world_slug": "management-consulting-world-129-benchmark--(world_be480063c3c94e26a04a08b0fc64d8f3)",
+        "domain": "Management Consulting",
+        "task_count": 9
+      },
+      "world_c33159dadd454abebd86ba1088e679cf": {
+        "tag": "1.1.1-world-c33159dadd45",
+        "digest": "sha256:48813c0371963fc363f714aa8a3c7ef5636373b6f61d568958beccf14d5573df",
+        "world_slug": "law-world-420-benchmark--(world_c33159dadd454abebd86ba1088e679cf)",
+        "domain": "Law",
+        "task_count": 7
+      },
+      "world_ca56e174a3c54a108d3cd73e92beeb0e": {
+        "tag": "1.1.1-world-ca56e174a3c5",
+        "digest": "sha256:a7e9fd5a0afb7db4d5f8a4051d76eedcd3f609ac501954ab8d974b63037f2fb9",
+        "world_slug": "law-world-418-benchmark--(world_ca56e174a3c54a108d3cd73e92beeb0e)",
+        "domain": "Law",
+        "task_count": 7
+      },
+      "world_cedf628f472d456ab52e5355941589e3": {
+        "tag": "1.1.1-world-cedf628f472d",
+        "digest": "sha256:a03b9130fc965fbdd998f3ccfbc42d1f5887bc8b2ff434012ea7c5e779e2c8ac",
+        "world_slug": "management-consulting-world-113-1-benchmark--(world_cedf628f472d456ab52e5355941589e3)",
+        "domain": "Management Consulting",
+        "task_count": 6
+      },
+      "world_cfb73f3e7c6c4f8a85b2749d0ecf6e85": {
+        "tag": "1.1.1-world-cfb73f3e7c6c",
+        "digest": "sha256:8b789e5f19c6c472d9f22df735faadbed82dd250a4e0131e1eba47e1c0173c9f",
+        "world_slug": "management-consulting-world-134-benchmark--(world_cfb73f3e7c6c4f8a85b2749d0ecf6e85)",
+        "domain": "Management Consulting",
+        "task_count": 11
+      },
+      "world_d02cab1bcf2c428c9d45e6b1d5150b52": {
+        "tag": "1.1.1-world-d02cab1bcf2c",
+        "digest": "sha256:6726fce9fd21e5e29e31191529f6e602f3f5f9509b80139c019cec9c3e4a1e8b",
+        "world_slug": "management-consulting-world-112-1-benchmark--(world_d02cab1bcf2c428c9d45e6b1d5150b52)",
+        "domain": "Management Consulting",
+        "task_count": 2
+      },
+      "world_dab2734c80974d28ae9e2729488ddd40": {
+        "tag": "1.1.1-world-dab2734c8097",
+        "digest": "sha256:bac5432ba9590c3796116b3c414243266c07f7ce44c226c85af0c50f9c49700c",
+        "world_slug": "investment-banking-world-219-benchmark--(world_dab2734c80974d28ae9e2729488ddd40)",
+        "domain": "Investment Banking",
+        "task_count": 10
+      },
+      "world_ddf7630e128b4a90b71e8d3a6c0d8713": {
+        "tag": "1.1.1-world-ddf7630e128b",
+        "digest": "sha256:212271d9fa3d5b0a77072d4574367d1e7feacc7aef8db2545668ea18e42795fa",
+        "world_slug": "law-world-417-benchmark--(world_ddf7630e128b4a90b71e8d3a6c0d8713)",
+        "domain": "Law",
+        "task_count": 8
+      },
+      "world_e3c8082e4c0b470da509eb339bb1538d": {
+        "tag": "1.1.1-world-e3c8082e4c0b",
+        "digest": "sha256:065c26ea1126c11c5124308292119667cdb3be454557c3dddfc6e867720f7fe7",
+        "world_slug": "law-world-434-benchmark--(world_e3c8082e4c0b470da509eb339bb1538d)",
+        "domain": "Law",
+        "task_count": 6
+      },
+      "world_ea7d8cd8fb8c4da2bc0fdbfe83984963": {
+        "tag": "1.1.1-world-ea7d8cd8fb8c",
+        "digest": "sha256:3eab4ff7e3ef3b4cdb8cc0c35cad7d98f751a7b1e9ca1af814a340b4b8fb6f63",
+        "world_slug": "management-consulting-world-135-benchmark--(world_ea7d8cd8fb8c4da2bc0fdbfe83984963)",
+        "domain": "Management Consulting",
+        "task_count": 9
+      },
+      "world_f830dafda9244f8eb358dc389b0b2b94": {
+        "tag": "1.1.1-world-f830dafda924",
+        "digest": "sha256:39ab57f8871ddc9277528912092fa60b794fa371347660057f152f89cc302b92",
+        "world_slug": "law-world-416-benchmark--(world_f830dafda9244f8eb358dc389b0b2b94)",
+        "domain": "Law",
+        "task_count": 4
+      }
+    }
+  }
+}

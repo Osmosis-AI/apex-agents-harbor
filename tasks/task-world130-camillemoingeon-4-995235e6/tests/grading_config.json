@@ -7,7 +7,7 @@
     "expected_output": "message_in_console"
   },
   "grading_settings": {
-    "llm_judge_model": "fireworks_ai/accounts/fireworks/models/deepseek-v4-flash-0731",
+    "llm_judge_model": "vercel_ai_gateway/deepseek/deepseek-v4-flash-0731",
     "llm_judge_extra_args": {
       "temperature": 0.1
     },
@@ -24,7 +24,7 @@
         "tags": [
           "Reasoning (numerical)"
         ],
-        "criteria": "Reports that, under the prompt-defined fixed 18-month cross-industry sensitivity using the full-precision v3 baseline and slide-stated relative reduction, the Rockford, Illinois plant's illustrative unplanned downtime ratio is 14%, rounded to the nearest whole percentage point.\n",
+        "criteria": "Reports that the Rockford, Illinois plant's illustrative unplanned downtime ratio is 14%, rounded to the nearest whole percentage point.\n",
         "modality": "Free text",
         "negative_criteria": "States that the new unplanned downtime ratio for the Rockford, Illinois plant is a value other than 14%.",
         "expected_file_type": "Final Answer Only (No Files)",
@@ -44,7 +44,7 @@
         "tags": [
           "Reasoning (numerical)"
         ],
-        "criteria": "Reports that, under the prompt-defined fixed 18-month cross-industry sensitivity using the full-precision v3 baseline and slide-stated relative reduction, the Madison, Wisconsin plant's illustrative unplanned downtime ratio is 14%, rounded to the nearest whole percentage point.\n",
+        "criteria": "Reports that the Madison, Wisconsin plant's illustrative unplanned downtime ratio is 14%, rounded to the nearest whole percentage point.\n",
         "modality": "Free text",
         "negative_criteria": "States that the new unplanned downtime ratio for the Madison, Wisconsin plant is a value other than 14%.",
         "expected_file_type": "Final Answer Only (No Files)",
@@ -64,7 +64,7 @@
         "tags": [
           "Reasoning (numerical)"
         ],
-        "criteria": "Reports that, under the prompt-defined fixed 18-month cross-industry sensitivity using the full-precision v3 baseline and slide-stated relative reduction, the Cedar Rapids, Iowa plant's illustrative unplanned downtime ratio is 13%, rounded to the nearest whole percentage point.\n",
+        "criteria": "Reports that the Cedar Rapids, Iowa plant's illustrative unplanned downtime ratio is 13%, rounded to the nearest whole percentage point.\n",
         "modality": "Free text",
         "negative_criteria": "States that the new unplanned downtime ratio for the Cedar Rapids, Iowa plant is a value other than 13%.",
         "expected_file_type": "Final Answer Only (No Files)",
@@ -84,7 +84,7 @@
         "tags": [
           "Reasoning (numerical)"
         ],
-        "criteria": "Reports that, under the prompt-defined fixed 18-month cross-industry sensitivity using the full-precision v3 baseline and slide-stated relative reduction, the Toledo, Ohio plant's illustrative unplanned downtime ratio is 14%, rounded to the nearest whole percentage point.\n",
+        "criteria": "Reports that the Toledo, Ohio plant's illustrative unplanned downtime ratio is 14%, rounded to the nearest whole percentage point.\n",
         "modality": "Free text",
         "negative_criteria": "States that the new unplanned downtime ratio for the Toledo, Ohio plant is a value other than 14%.",
         "expected_file_type": "Final Answer Only (No Files)",
@@ -104,7 +104,7 @@
         "tags": [
           "Reasoning (numerical)"
         ],
-        "criteria": "Reports that, under the prompt-defined fixed 18-month cross-industry sensitivity using the full-precision v3 baseline and slide-stated relative reduction, the Kalamazoo, Michigan plant's illustrative unplanned downtime ratio is 15%, rounded to the nearest whole percentage point.\n",
+        "criteria": "Reports that the Kalamazoo, Michigan plant's illustrative unplanned downtime ratio is 15%, rounded to the nearest whole percentage point.\n",
         "modality": "Free text",
         "negative_criteria": "States that the new unplanned downtime ratio for the Kalamazoo, Michigan plant a value other than 15%.",
         "expected_file_type": "Final Answer Only (No Files)",

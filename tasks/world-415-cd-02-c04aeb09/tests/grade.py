@@ -163,6 +163,9 @@ def run_grading(config: dict[str, Any], workdir: Path) -> dict[str, Any]:
 
 
 def write_rewards(grades: dict[str, Any]) -> None:
+    if grades.get("grading_run_status") == "error":
+        GRADE_DETAILS.write_text(json.dumps(grades, indent=2))
+        raise GradingError("grading run reported errors; see grade_details.json")
     scoring = grades.get("scoring_results") or {}
     score = scoring.get("final_score")
     if score is None:

@@ -1,7 +1,7 @@
 [
   {
     "name": "apex-agents-1-1",
-    "version": "1.0.1",
+    "version": "1.1.1",
     "description": "APEX-Agents 1.1 (Mercor): 240 long-horizon professional-services tasks across investment banking, law, and management consulting, as published on the Harbor Hub, with the world, agent, and verifier images repointed to the Osmosis mirror at their original digests.",
     "tasks": [
       {

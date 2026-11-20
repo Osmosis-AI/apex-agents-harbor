@@ -3,7 +3,7 @@ artifacts = ["/logs/agent/trajectory.json", { source = "/logs/world/final_snapsh
 
 [task]
 name = "mercor/world131-ib-05-3c0a977d"
-description = "Find out the ratio between Curtailment_GWh and Redispatch_GWh and for the lowest average ratio of Country-Region pair, report the average Avoided Curtailment (MWh) and causes of cu"
+description = "Find out the ratio between Curtailment_GWh and Redispatch_GWh and for the lowest average ratio of Country-Region pair, report the average Avoided Curtailment (MWh), calculated as t"
 keywords = ["agents", "apex-agents", "management-consulting", "mcp"]
 
 [metadata]
