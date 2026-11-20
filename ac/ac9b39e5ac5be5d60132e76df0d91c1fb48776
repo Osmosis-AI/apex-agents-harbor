@@ -1,0 +1,2059 @@
+README.md
+  s_4ea94d8aa98ef0::t_489ab0e00b1a57 3,9,13,17,22,35
+manifests/apex-agents-1-1-1.1.1.json
+  s_4ea94d8aa98ef0::t_bd14cd64f9595c 1-265
+registry.json
+  s_4ea94d8aa98ef0::t_1c6ffcbcc27f4b 4
+scripts/generate.py
+  s_4ea94d8aa98ef0::t_802c1831df7dd2 4-5,29,36,128-129,131
+tasks/128-jr-1-f7f95d92/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_9c13e8886e867f 6
+tasks/128-jr-1-f7f95d92/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_dfdc8a2efcb7b1 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/128-jr-1-f7f95d92/tests/grade.py
+  s_4ea94d8aa98ef0::t_3877c47e6a8264 166-168
+tasks/128-jr-1-f7f95d92/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_a56891b0a19c5f 10
+tasks/analyze-effect-of-anti-slapp-suit-against-bluelng-on-pre-sui-4b81f3b2/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_c064e669976b92 6
+tasks/analyze-effect-of-anti-slapp-suit-against-bluelng-on-pre-sui-4b81f3b2/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_2c2a78abf41f5b 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/analyze-effect-of-anti-slapp-suit-against-bluelng-on-pre-sui-4b81f3b2/tests/grade.py
+  s_4ea94d8aa98ef0::t_a61ab8388ffebf 166-168
+tasks/analyze-effect-of-anti-slapp-suit-against-bluelng-on-pre-sui-4b81f3b2/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_7673ab39cd8d0f 10
+tasks/cw134-aditi-01-6914a79e/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_17e4df07ebc9fe 6
+tasks/cw134-aditi-01-6914a79e/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_710bd4cdfc0609 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/cw134-aditi-01-6914a79e/tests/grade.py
+  s_4ea94d8aa98ef0::t_159c51a1b8c1ab 166-168
+tasks/cw134-aditi-01-6914a79e/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_6b24a2b031d32d 10
+tasks/cw134-aditi-03-64426b4e/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_c0e2763b79801f 6
+tasks/cw134-aditi-03-64426b4e/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_c485046f98200b 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/cw134-aditi-03-64426b4e/tests/grade.py
+  s_4ea94d8aa98ef0::t_2c9d2c58d6f631 166-168
+tasks/cw134-aditi-03-64426b4e/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_5b4c81de3b7681 10
+tasks/law-433-ac-02-c26a646e/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_54a5c5513fb7ea 6
+tasks/law-433-ac-02-c26a646e/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_564835747ac65f 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/law-433-ac-02-c26a646e/tests/grade.py
+  s_4ea94d8aa98ef0::t_9e904efd4b4e3f 166-168
+tasks/law-433-ac-02-c26a646e/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_eae631c6f87fc7 10
+tasks/law-world-423-dm-03-726ce1ed/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_6bbd6b0bd4e334 6
+tasks/law-world-423-dm-03-726ce1ed/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_c25829dd2ffea2 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/law-world-423-dm-03-726ce1ed/tests/grade.py
+  s_4ea94d8aa98ef0::t_3ca2a40fd95b87 166-168
+tasks/law-world-423-dm-03-726ce1ed/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_cf36f8853adaaa 10
+tasks/law-world-423-dm-04-1a9a5de6/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_a2c066e5b48b6e 6
+tasks/law-world-423-dm-04-1a9a5de6/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_668ddd1001ee51 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/law-world-423-dm-04-1a9a5de6/solution/answer.txt
+  s_4ea94d8aa98ef0::t_a089101dba659c 1,3-21
+tasks/law-world-423-dm-04-1a9a5de6/tests/golden_responses.json
+  s_4ea94d8aa98ef0::t_b5804d306821f6 3
+tasks/law-world-423-dm-04-1a9a5de6/tests/grade.py
+  s_4ea94d8aa98ef0::t_ab795fba953fbd 166-168
+tasks/law-world-423-dm-04-1a9a5de6/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_af8842a470f065 10
+tasks/law433-mk-01-ec4c48f7/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_4bcfdb6279e31a 6
+tasks/law433-mk-01-ec4c48f7/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_56d81c409968b9 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/law433-mk-01-ec4c48f7/tests/grade.py
+  s_4ea94d8aa98ef0::t_c465ac66ee55d6 166-168
+tasks/law433-mk-01-ec4c48f7/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_36ceae1282c631 10
+tasks/lawworld417-ab-01-c07832b1/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_29f0e732db7947 6
+tasks/lawworld417-ab-01-c07832b1/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_d4c26b5ff8e622 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/lawworld417-ab-01-c07832b1/tests/grade.py
+  s_4ea94d8aa98ef0::t_b048dba06a4ae7 166-168
+tasks/lawworld417-ab-01-c07832b1/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_bd7069c8004495 10
+tasks/lawworld417-anb-04-06729721/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_9940bb6fb166af 6
+tasks/lawworld417-anb-04-06729721/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_b3240a3c4be4b5 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/lawworld417-anb-04-06729721/tests/grade.py
+  s_4ea94d8aa98ef0::t_a1a373da1c066e 166-168
+tasks/lawworld417-anb-04-06729721/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_b050b62a411463 10
+tasks/lawworld417-as-02-b4b20204/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_eaac8001cc3a63 6
+tasks/lawworld417-as-02-b4b20204/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_3f82b42e1c6bf3 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/lawworld417-as-02-b4b20204/tests/grade.py
+  s_4ea94d8aa98ef0::t_8cc7279dd2e536 166-168
+tasks/lawworld417-as-02-b4b20204/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_0db255cf63e708 10
+tasks/lawworld417-as-03-343937d4/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_bb63344d6e5aa9 6
+tasks/lawworld417-as-03-343937d4/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_aa2b1fa727900f 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/lawworld417-as-03-343937d4/tests/grade.py
+  s_4ea94d8aa98ef0::t_4607fb820d9b7f 166-168
+tasks/lawworld417-as-03-343937d4/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_88fa8dcdc0bc2f 10
+tasks/lawworld417-ne-03-5f5862ef/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_70908a24affbe2 6
+tasks/lawworld417-ne-03-5f5862ef/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_15143056d8e84c 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/lawworld417-ne-03-5f5862ef/tests/grade.py
+  s_4ea94d8aa98ef0::t_8d996e56b3667d 166-168
+tasks/lawworld417-ne-03-5f5862ef/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_c648536cc2a338 10
+tasks/lawworld417-ne-06-7d454c39/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_1d7684d15c97cc 6
+tasks/lawworld417-ne-06-7d454c39/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_afd482b51ce06f 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/lawworld417-ne-06-7d454c39/solution/answer.txt
+  s_4ea94d8aa98ef0::t_fa8295e9e29d00 1,5
+tasks/lawworld417-ne-06-7d454c39/tests/golden_responses.json
+  s_4ea94d8aa98ef0::t_19f80d54521617 3
+tasks/lawworld417-ne-06-7d454c39/tests/grade.py
+  s_4ea94d8aa98ef0::t_1e0bd087e94bd4 166-168
+tasks/lawworld417-ne-06-7d454c39/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_922cff93c1e89f 10
+tasks/lawworld433-anb-01-5d12cf8d/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_1f596b14d50fc6 6
+tasks/lawworld433-anb-01-5d12cf8d/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_f5bda4dc1b6005 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/lawworld433-anb-01-5d12cf8d/tests/grade.py
+  s_4ea94d8aa98ef0::t_0b05d96d2c1eba 166-168
+tasks/lawworld433-anb-01-5d12cf8d/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_8623277ce0163a 10
+tasks/lawworld433-anb-04-23234013/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_020b46e112a829 6
+tasks/lawworld433-anb-04-23234013/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_58d947c4b3b6b5 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/lawworld433-anb-04-23234013/tests/grade.py
+  s_4ea94d8aa98ef0::t_4a3e713f2fff05 166-168
+tasks/lawworld433-anb-04-23234013/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_0ffab856fecdad 10
+tasks/lawworld433-anb-05-16cf8300/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_88e3b4745eacb8 6
+tasks/lawworld433-anb-05-16cf8300/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_779456ba40707c 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/lawworld433-anb-05-16cf8300/tests/grade.py
+  s_4ea94d8aa98ef0::t_a64487322a11ac 166-168
+tasks/lawworld433-anb-05-16cf8300/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_3c6ce88b9f6a95 10
+tasks/lawworld433-naf-01-8a2d1647/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_c204fd60ef41fe 6
+tasks/lawworld433-naf-01-8a2d1647/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_343ec1db6096b2 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/lawworld433-naf-01-8a2d1647/solution/answer.txt
+  s_4ea94d8aa98ef0::t_27778e4d3cb60c 1-9
+tasks/lawworld433-naf-01-8a2d1647/tests/golden_responses.json
+  s_4ea94d8aa98ef0::t_d90913d02aa461 3
+tasks/lawworld433-naf-01-8a2d1647/tests/grade.py
+  s_4ea94d8aa98ef0::t_c369a4732f3227 166-168
+tasks/lawworld433-naf-01-8a2d1647/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_0925fe60489f88 10
+tasks/lawworld433-naf-02-7cff5581/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_6c8d4f173e04cd 6
+tasks/lawworld433-naf-02-7cff5581/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_4eb0c764371621 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/lawworld433-naf-02-7cff5581/instruction.md
+  s_4ea94d8aa98ef0::t_fc67eab9ce746e 1
+tasks/lawworld433-naf-02-7cff5581/solution/answer.txt
+  s_4ea94d8aa98ef0::t_37c10492f5395b 1
+tasks/lawworld433-naf-02-7cff5581/solution/instruction.md
+  s_4ea94d8aa98ef0::t_f07bc599694ef9 16
+tasks/lawworld433-naf-02-7cff5581/task.toml
+  s_4ea94d8aa98ef0::t_30c584d58a1df9 6
+tasks/lawworld433-naf-02-7cff5581/tests/golden_responses.json
+  s_4ea94d8aa98ef0::t_0008f497583575 3
+tasks/lawworld433-naf-02-7cff5581/tests/grade.py
+  s_4ea94d8aa98ef0::t_f3fab71dd83b9c 166-168
+tasks/lawworld433-naf-02-7cff5581/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_f2a94100e76724 10
+tasks/shiva-task-01-world-129-fc919d98/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_75387aef24b571 6
+tasks/shiva-task-01-world-129-fc919d98/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_36be85bdc586f2 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/shiva-task-01-world-129-fc919d98/tests/grade.py
+  s_4ea94d8aa98ef0::t_bb228c6cdb2b51 166-168
+tasks/shiva-task-01-world-129-fc919d98/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_0aced341a3c6cc 10
+tasks/sp-task-01-world-135-840af889/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_4def4c463087e4 6
+tasks/sp-task-01-world-135-840af889/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_6f83e489133d7c 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/sp-task-01-world-135-840af889/tests/grade.py
+  s_4ea94d8aa98ef0::t_0bd9bd3d4db50e 166-168
+tasks/sp-task-01-world-135-840af889/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_46e2d099c7230d 10
+tasks/sp-task-02-wold-135-8429838a/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_f9278aa929c988 6
+tasks/sp-task-02-wold-135-8429838a/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_bf0aa0eb4c9136 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/sp-task-02-wold-135-8429838a/tests/grade.py
+  s_4ea94d8aa98ef0::t_a7800ac53372f8 166-168
+tasks/sp-task-02-wold-135-8429838a/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_2e818ba177dccb 10
+tasks/sp-task-02-world-129-7c901287/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_f9d9af167ebbfa 6
+tasks/sp-task-02-world-129-7c901287/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_5c81ca3b77647b 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/sp-task-02-world-129-7c901287/tests/grade.py
+  s_4ea94d8aa98ef0::t_b70ad4b55ecb08 166-168
+tasks/sp-task-02-world-129-7c901287/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_40316d632acd78 10
+tasks/sp-task-03-world-129-13560b57/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_d30a2ed2069ee1 6
+tasks/sp-task-03-world-129-13560b57/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_9b790f49786563 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/sp-task-03-world-129-13560b57/tests/grade.py
+  s_4ea94d8aa98ef0::t_cf695702469871 166-168
+tasks/sp-task-03-world-129-13560b57/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_ba0e4a85007459 10
+tasks/sp-task-03-world-135-8617355f/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_bc4b4f23c17541 6
+tasks/sp-task-03-world-135-8617355f/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_c513d089a4d2cb 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/sp-task-03-world-135-8617355f/tests/grade.py
+  s_4ea94d8aa98ef0::t_00c9c43a761cd4 166-168
+tasks/sp-task-03-world-135-8617355f/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_e24eed499674a9 10
+tasks/sp-task-07-world-135-0a861743/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_1ec5094faaf75c 6
+tasks/sp-task-07-world-135-0a861743/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_ee2a3e8c3668cd 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/sp-task-07-world-135-0a861743/tests/grade.py
+  s_4ea94d8aa98ef0::t_27922edffd4b1a 166-168
+tasks/sp-task-07-world-135-0a861743/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_7f324b5161d4da 10
+tasks/task-128-pj-04-a1434323/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_73fc2ff6cffdee 6
+tasks/task-128-pj-04-a1434323/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_162b65e8f85dbb 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/task-128-pj-04-a1434323/tests/grade.py
+  s_4ea94d8aa98ef0::t_a14990c2be680d 166-168
+tasks/task-128-pj-04-a1434323/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_2eef24225f1319 10
+tasks/task-14-24dc5ca2/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_7809cc2c0fcaf9 6
+tasks/task-14-24dc5ca2/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_e650a40db84f0e 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/task-14-24dc5ca2/tests/grade.py
+  s_4ea94d8aa98ef0::t_c72884099aa7e3 166-168
+tasks/task-14-24dc5ca2/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_ed86163dc1d643 10
+tasks/task-3uy1546e-ac21a454/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_d60577a5fc6808 6
+tasks/task-3uy1546e-ac21a454/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_b5e8ef03517c47 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/task-3uy1546e-ac21a454/tests/grade.py
+  s_4ea94d8aa98ef0::t_718698fa445476 166-168
+tasks/task-3uy1546e-ac21a454/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_1caeb69c7367f5 10
+tasks/task-4-c12de7ba/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_afe9bfa6ebaba7 6
+tasks/task-4-c12de7ba/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_1884558538b842 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/task-4-c12de7ba/tests/grade.py
+  s_4ea94d8aa98ef0::t_8706f2fd2a44ad 166-168
+tasks/task-4-c12de7ba/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_69d0e4ff544bb0 10
+tasks/task-5vd1ebb0-c4e34a72/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_37217d787d89ae 6
+tasks/task-5vd1ebb0-c4e34a72/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_1aff9914f6ca5a 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/task-5vd1ebb0-c4e34a72/tests/grade.py
+  s_4ea94d8aa98ef0::t_762e16093dfea4 166-168
+tasks/task-5vd1ebb0-c4e34a72/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_b6da433d04696a 10
+tasks/task-acg14a6c-c782f25e/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_f3979788d34b3a 6
+tasks/task-acg14a6c-c782f25e/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_fbf9622b26788f 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/task-acg14a6c-c782f25e/tests/golden_responses.json
+  s_4ea94d8aa98ef0::t_6a0454e3ae3014 4
+tasks/task-acg14a6c-c782f25e/tests/grade.py
+  s_4ea94d8aa98ef0::t_6fb2e356551b03 166-168
+tasks/task-acg14a6c-c782f25e/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_905d4f8e22ab9c 10
+tasks/task-awys8050-cd3c370b/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_3d92b909530051 6
+tasks/task-awys8050-cd3c370b/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_9dda8389a802f3 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/task-awys8050-cd3c370b/tests/grade.py
+  s_4ea94d8aa98ef0::t_d8a542e7b78480 166-168
+tasks/task-awys8050-cd3c370b/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_4aea7520d81395 10
+tasks/task-ncwq9a4b-87065bf9/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_56174fedba97ae 6
+tasks/task-ncwq9a4b-87065bf9/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_3423440fb2ef5f 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/task-ncwq9a4b-87065bf9/tests/grade.py
+  s_4ea94d8aa98ef0::t_18c31a10641c2e 166-168
+tasks/task-ncwq9a4b-87065bf9/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_44b228f27543df 10
+tasks/task-o88f1452-c5369dfe/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_ae5b50ef397fce 6
+tasks/task-o88f1452-c5369dfe/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_b9f035dd104ddb 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/task-o88f1452-c5369dfe/tests/grade.py
+  s_4ea94d8aa98ef0::t_02fabcd3e61f3b 166-168
+tasks/task-o88f1452-c5369dfe/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_82e2482b6795d7 10
+tasks/task-seed-13-f7969453/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_d30ce6ebffd8aa 6
+tasks/task-seed-13-f7969453/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_fe5b0dc125f055 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/task-seed-13-f7969453/solution/answer.txt
+  s_4ea94d8aa98ef0::t_919fa3001f556d 1-3
+tasks/task-seed-13-f7969453/tests/golden_responses.json
+  s_4ea94d8aa98ef0::t_8798581f623d70 3
+tasks/task-seed-13-f7969453/tests/grade.py
+  s_4ea94d8aa98ef0::t_2830f2f291671f 166-168
+tasks/task-seed-13-f7969453/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_05bdf8c01dffa5 10
+tasks/task-unc2be9c-em-ef98d006/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_d0fff24451e423 6
+tasks/task-unc2be9c-em-ef98d006/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_d50b28e3fde922 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/task-unc2be9c-em-ef98d006/tests/grade.py
+  s_4ea94d8aa98ef0::t_3fe72e503f40cc 166-168
+tasks/task-unc2be9c-em-ef98d006/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_5e87abc656bea1 10
+tasks/task-w135-camille-moingeon-4-1cf93f93/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_e26e1b03b547a8 6
+tasks/task-w135-camille-moingeon-4-1cf93f93/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_5ca945d477d308 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/task-w135-camille-moingeon-4-1cf93f93/tests/grade.py
+  s_4ea94d8aa98ef0::t_a5a55da86ef7a1 166-168
+tasks/task-w135-camille-moingeon-4-1cf93f93/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_bd197f72253e5a 10
+tasks/task-w135-camille-moingeon-5-91534276/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_ce0d461deb3b7c 6
+tasks/task-w135-camille-moingeon-5-91534276/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_fc227bcb8238f1 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/task-w135-camille-moingeon-5-91534276/tests/grade.py
+  s_4ea94d8aa98ef0::t_bbd1cc827a225c 166-168
+tasks/task-w135-camille-moingeon-5-91534276/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_5ae9534e8f7d93 10
+tasks/task-w135-camille-moingeon-6-98904e4b/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_afa86111ed524b 6
+tasks/task-w135-camille-moingeon-6-98904e4b/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_67d80ea2a78dd4 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/task-w135-camille-moingeon-6-98904e4b/tests/grade.py
+  s_4ea94d8aa98ef0::t_2a3e7c4f00ff60 166-168
+tasks/task-w135-camille-moingeon-6-98904e4b/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_3f634354075548 10
+tasks/task-world130-camillemoingeon-3-2f162fcc/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_954f7119404095 6
+tasks/task-world130-camillemoingeon-3-2f162fcc/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_5baa3fef2707b1 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/task-world130-camillemoingeon-3-2f162fcc/tests/grade.py
+  s_4ea94d8aa98ef0::t_fca620e68d2676 166-168
+tasks/task-world130-camillemoingeon-3-2f162fcc/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_0e53d9dade7d59 10
+tasks/task-world130-camillemoingeon-4-995235e6/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_b126885e35a7ff 6
+tasks/task-world130-camillemoingeon-4-995235e6/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_f518a9c235027c 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/task-world130-camillemoingeon-4-995235e6/tests/grade.py
+  s_4ea94d8aa98ef0::t_19dd1fb51a2003 166-168
+tasks/task-world130-camillemoingeon-4-995235e6/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_83d7e33221b442 10,27,47,67,87,107
+tasks/task-yhzc9d1a-531a5446/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_c8e8f9bfe24502 6
+tasks/task-yhzc9d1a-531a5446/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_693d9fb1c531b1 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/task-yhzc9d1a-531a5446/tests/grade.py
+  s_4ea94d8aa98ef0::t_a4db752e86d89c 166-168
+tasks/task-yhzc9d1a-531a5446/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_05095072dd77ea 10
+tasks/task-ymtecb81-c206b308/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_a7bb7df052eeda 6
+tasks/task-ymtecb81-c206b308/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_6da6b0890816ff 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/task-ymtecb81-c206b308/tests/grade.py
+  s_4ea94d8aa98ef0::t_236f4c148acc65 166-168
+tasks/task-ymtecb81-c206b308/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_29322f23907b93 10
+tasks/taskworld130-camillemoingeon-5-0d2a857d/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_463317967d21bb 6
+tasks/taskworld130-camillemoingeon-5-0d2a857d/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_ae38e1a762a55a 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/taskworld130-camillemoingeon-5-0d2a857d/tests/grade.py
+  s_4ea94d8aa98ef0::t_490d8005ba59c4 166-168
+tasks/taskworld130-camillemoingeon-5-0d2a857d/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_72f1114d1092b3 10
+tasks/w127-ah-task-7-d04aba36/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_6458d5cc90d75d 6
+tasks/w127-ah-task-7-d04aba36/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_21528e542fb21d 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/w127-ah-task-7-d04aba36/tests/grade.py
+  s_4ea94d8aa98ef0::t_d76bc4fbca36c8 166-168
+tasks/w127-ah-task-7-d04aba36/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_dfe034b6bb5210 10
+tasks/w134-nancy-task-07-5f476e2b/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_82b39ddf2e483b 6
+tasks/w134-nancy-task-07-5f476e2b/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_ea730171444324 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/w134-nancy-task-07-5f476e2b/tests/grade.py
+  s_4ea94d8aa98ef0::t_fe8c82363fe026 166-168
+tasks/w134-nancy-task-07-5f476e2b/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_0e8c8b0818c1c5 10
+tasks/w134-nancy-task-09-98c5b529/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_8a50c49a0b4fee 6
+tasks/w134-nancy-task-09-98c5b529/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_f607f4c274a17e 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/w134-nancy-task-09-98c5b529/tests/grade.py
+  s_4ea94d8aa98ef0::t_39ba03dabdecfc 166-168
+tasks/w134-nancy-task-09-98c5b529/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_90ac3bfa9ee91d 10
+tasks/w134-nancy-task-10-1bb0218b/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_b89d4e67768647 6
+tasks/w134-nancy-task-10-1bb0218b/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_416e5a4642b11b 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/w134-nancy-task-10-1bb0218b/tests/grade.py
+  s_4ea94d8aa98ef0::t_2d9ef5548a0f0e 166-168
+tasks/w134-nancy-task-10-1bb0218b/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_420ed51bd15aaa 10
+tasks/world-127-ah-task-2-fe2ade3d/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_6125442af023ef 6
+tasks/world-127-ah-task-2-fe2ade3d/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_1ce278a9fefa00 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world-127-ah-task-2-fe2ade3d/tests/grade.py
+  s_4ea94d8aa98ef0::t_cb4a6109a376c5 166-168
+tasks/world-127-ah-task-2-fe2ade3d/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_db5f7e231fcf6b 10
+tasks/world-127-am-task-02-ec3c5eb0/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_05152faebf17d0 6
+tasks/world-127-am-task-02-ec3c5eb0/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_fa265d547125af 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world-127-am-task-02-ec3c5eb0/tests/grade.py
+  s_4ea94d8aa98ef0::t_4b099ac8f0f7bb 166-168
+tasks/world-127-am-task-02-ec3c5eb0/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_5360d9d940eb02 10
+tasks/world-127-hlv-task-01-37bd2041/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_3f880dfd078edf 6
+tasks/world-127-hlv-task-01-37bd2041/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_4137f0d2a0f9d4 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world-127-hlv-task-01-37bd2041/tests/grade.py
+  s_4ea94d8aa98ef0::t_cb17fb1acbf5bd 166-168
+tasks/world-127-hlv-task-01-37bd2041/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_78ab6e42c05f9d 10
+tasks/world-127-hlv-task-03-de0803e6/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_6f8b5e85be84d5 6
+tasks/world-127-hlv-task-03-de0803e6/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_8279c7a4598e6b 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world-127-hlv-task-03-de0803e6/tests/grade.py
+  s_4ea94d8aa98ef0::t_6b16a865e6d3cd 166-168
+tasks/world-127-hlv-task-03-de0803e6/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_5ff347bbd0bcc5 10
+tasks/world-127-hlv-task-04-31c097b3/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_48d28f27923b68 6
+tasks/world-127-hlv-task-04-31c097b3/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_c93834842c8033 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world-127-hlv-task-04-31c097b3/tests/grade.py
+  s_4ea94d8aa98ef0::t_194b55e1dca981 166-168
+tasks/world-127-hlv-task-04-31c097b3/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_b737c390a3137f 10
+tasks/world-127-tj-task-1-0-078e2b30/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_1794e0f977e3a4 6
+tasks/world-127-tj-task-1-0-078e2b30/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_e2bfc764ead8c6 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world-127-tj-task-1-0-078e2b30/tests/grade.py
+  s_4ea94d8aa98ef0::t_3f30e6e934fdec 166-168
+tasks/world-127-tj-task-1-0-078e2b30/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_b78887044f0c48 10
+tasks/world-127-tj-task-2-0-2a1410cf/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_7a1749edd5f14e 6
+tasks/world-127-tj-task-2-0-2a1410cf/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_f75785edf8f354 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world-127-tj-task-2-0-2a1410cf/tests/grade.py
+  s_4ea94d8aa98ef0::t_819ce2bdf31800 166-168
+tasks/world-127-tj-task-2-0-2a1410cf/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_509cc1d83a5970 10
+tasks/world-127-tj-task-4-0-bbc81ebc/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_f8b922aac0bca4 6
+tasks/world-127-tj-task-4-0-bbc81ebc/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_634ecd0d24f3d5 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world-127-tj-task-4-0-bbc81ebc/tests/grade.py
+  s_4ea94d8aa98ef0::t_4631b313746b3d 166-168
+tasks/world-127-tj-task-4-0-bbc81ebc/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_88ec9f2389fe24 10
+tasks/world-128-nk-task-1-c49d8b70/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_de2e045609acfa 6
+tasks/world-128-nk-task-1-c49d8b70/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_1a8655b94e5f36 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world-128-nk-task-1-c49d8b70/tests/grade.py
+  s_4ea94d8aa98ef0::t_65de8ef6d43237 166-168
+tasks/world-128-nk-task-1-c49d8b70/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_7f335d74cb3aad 10
+tasks/world-128-sf-task-2-7bab9d72/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_21bb1d786feb21 6
+tasks/world-128-sf-task-2-7bab9d72/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_a30c129eec3110 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world-128-sf-task-2-7bab9d72/tests/grade.py
+  s_4ea94d8aa98ef0::t_f8eef39ceda1fa 166-168
+tasks/world-128-sf-task-2-7bab9d72/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_1ba5e6b10f4ebc 10
+tasks/world-129-cy-task-3-2bcdc3db/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_f580bb3db3c31f 6
+tasks/world-129-cy-task-3-2bcdc3db/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_a6f100c342ef47 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world-129-cy-task-3-2bcdc3db/tests/grade.py
+  s_4ea94d8aa98ef0::t_404f1d53eadfd3 166-168
+tasks/world-129-cy-task-3-2bcdc3db/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_47f7044294edf6 10
+tasks/world-129-cy-task-5-f9ad7ab3/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_812608dfb110ca 6
+tasks/world-129-cy-task-5-f9ad7ab3/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_a083c1e6506ddf 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world-129-cy-task-5-f9ad7ab3/tests/grade.py
+  s_4ea94d8aa98ef0::t_1cad81d536dba3 166-168
+tasks/world-129-cy-task-5-f9ad7ab3/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_73632785b88d0d 10
+tasks/world-129-cy-task-6-13a7957a/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_7b61b4b73c6650 6
+tasks/world-129-cy-task-6-13a7957a/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_f62e072ef4e164 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world-129-cy-task-6-13a7957a/tests/grade.py
+  s_4ea94d8aa98ef0::t_867552236ccc60 166-168
+tasks/world-129-cy-task-6-13a7957a/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_58c8b5e540a9a8 10
+tasks/world-131-jr-1-2930a41b/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_5b75766028e03d 6
+tasks/world-131-jr-1-2930a41b/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_96f2b354e4ae3a 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world-131-jr-1-2930a41b/tests/grade.py
+  s_4ea94d8aa98ef0::t_c03ba63066f3fd 166-168
+tasks/world-131-jr-1-2930a41b/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_f8ae76c9674180 10
+tasks/world-131-mk-task-1-421d35da/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_12b19cdb6425e5 6
+tasks/world-131-mk-task-1-421d35da/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_4f53220a09e1d0 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world-131-mk-task-1-421d35da/tests/grade.py
+  s_4ea94d8aa98ef0::t_df98669b73ae92 166-168
+tasks/world-131-mk-task-1-421d35da/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_1457b359a1c8f7 10
+tasks/world-131-mk-task-3-cbb8798f/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_fdc5bf0497c160 6
+tasks/world-131-mk-task-3-cbb8798f/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_afcf84a93993b7 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world-131-mk-task-3-cbb8798f/tests/grade.py
+  s_4ea94d8aa98ef0::t_a4fdcdfe908c32 166-168
+tasks/world-131-mk-task-3-cbb8798f/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_b185794767a5db 10
+tasks/world-131-mk-task-4-bd07e017/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_068a5be82f029a 6
+tasks/world-131-mk-task-4-bd07e017/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_09100b46f537f0 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world-131-mk-task-4-bd07e017/tests/grade.py
+  s_4ea94d8aa98ef0::t_1be198432fbe7d 166-168
+tasks/world-131-mk-task-4-bd07e017/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_6ffdbcb25bd0cf 10
+tasks/world-133-el-task-03-4657445f/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_4bc0af362d3ccc 6
+tasks/world-133-el-task-03-4657445f/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_be8f38b82fcca4 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world-133-el-task-03-4657445f/tests/grade.py
+  s_4ea94d8aa98ef0::t_c085a58fbd0c4f 166-168
+tasks/world-133-el-task-03-4657445f/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_8a84e9dc384087 10
+tasks/world-133-nk-task-1-f0bbc839/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_c15220fb8247df 6
+tasks/world-133-nk-task-1-f0bbc839/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_ce86d30e993d9e 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world-133-nk-task-1-f0bbc839/tests/grade.py
+  s_4ea94d8aa98ef0::t_2feed7c38e53e1 166-168
+tasks/world-133-nk-task-1-f0bbc839/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_c7329c15ce1ea6 10
+tasks/world-134-nancy-task-02-3f38c565/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_ee2056673a1927 6
+tasks/world-134-nancy-task-02-3f38c565/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_b7098e7f5c9ab7 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world-134-nancy-task-02-3f38c565/tests/grade.py
+  s_4ea94d8aa98ef0::t_3d5889be966638 166-168
+tasks/world-134-nancy-task-02-3f38c565/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_672770f5b07a06 10
+tasks/world-134-nancy-task-04-7fbb9e35/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_efbd53294e5d0b 6
+tasks/world-134-nancy-task-04-7fbb9e35/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_a8ec36f0eba31d 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world-134-nancy-task-04-7fbb9e35/tests/grade.py
+  s_4ea94d8aa98ef0::t_a5a636de1a4b2f 166-168
+tasks/world-134-nancy-task-04-7fbb9e35/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_aa060154932d41 10
+tasks/world-134-nancy-task-05-2aa85715/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_c3553635c8e39c 6
+tasks/world-134-nancy-task-05-2aa85715/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_26f5170f8b5dbe 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world-134-nancy-task-05-2aa85715/tests/grade.py
+  s_4ea94d8aa98ef0::t_20130f63c4e9c1 166-168
+tasks/world-134-nancy-task-05-2aa85715/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_f606f34adf5948 10
+tasks/world-134-rg-03-92e95834/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_f37accd88a1e68 6
+tasks/world-134-rg-03-92e95834/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_e067f006491769 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world-134-rg-03-92e95834/tests/grade.py
+  s_4ea94d8aa98ef0::t_25c6bb5204dc59 166-168
+tasks/world-134-rg-03-92e95834/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_d6d86812fe4b3c 10
+tasks/world-134-rg-04-4498da8f/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_df7d95ea84b4c3 6
+tasks/world-134-rg-04-4498da8f/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_e56045be715a66 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world-134-rg-04-4498da8f/tests/grade.py
+  s_4ea94d8aa98ef0::t_f4926d0801864f 166-168
+tasks/world-134-rg-04-4498da8f/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_54545093b47565 10
+tasks/world-134-rg-05-0b032d90/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_5fb061d6f76dc6 6
+tasks/world-134-rg-05-0b032d90/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_9aa87c9acc64db 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world-134-rg-05-0b032d90/tests/grade.py
+  s_4ea94d8aa98ef0::t_969a3a31900d69 166-168
+tasks/world-134-rg-05-0b032d90/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_36feb68b466da7 10
+tasks/world-135-cd-01-e5cc5e24/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_2a01e8f6c551c7 6
+tasks/world-135-cd-01-e5cc5e24/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_fee75100dcf8cc 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world-135-cd-01-e5cc5e24/tests/grade.py
+  s_4ea94d8aa98ef0::t_cece0ae6b2d6c5 166-168
+tasks/world-135-cd-01-e5cc5e24/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_45cc3907782ca2 10
+tasks/world-219-ae-task-4-af0bc0f9/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_742e6b886aaaa8 6
+tasks/world-219-ae-task-4-af0bc0f9/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_884fe3b7e7c323 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world-219-ae-task-4-af0bc0f9/tests/grade.py
+  s_4ea94d8aa98ef0::t_e45804eed01913 166-168
+tasks/world-219-ae-task-4-af0bc0f9/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_4e5b8dd506e5a5 10
+tasks/world-221-hy-05-fa5120b0/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_a0d59be065d022 6
+tasks/world-221-hy-05-fa5120b0/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_b360261b562794 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world-221-hy-05-fa5120b0/tests/grade.py
+  s_4ea94d8aa98ef0::t_d35a9bcb09138a 166-168
+tasks/world-221-hy-05-fa5120b0/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_5dc08b3f56cd1a 10
+tasks/world-223-ae-task-01-0e08a3d7/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_4aff85875256c1 6
+tasks/world-223-ae-task-01-0e08a3d7/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_6d6a3902b9870f 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world-223-ae-task-01-0e08a3d7/tests/grade.py
+  s_4ea94d8aa98ef0::t_e244f3a46daf6e 166-168
+tasks/world-223-ae-task-01-0e08a3d7/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_f64f19a0a16737 10
+tasks/world-225-je-01-70449b2d/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_a544d27cdc384e 6
+tasks/world-225-je-01-70449b2d/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_d6251c7eba5287 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world-225-je-01-70449b2d/tests/grade.py
+  s_4ea94d8aa98ef0::t_6afd27fe64a5a2 166-168
+tasks/world-225-je-01-70449b2d/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_c20d96a46d42ae 10
+tasks/world-225-je-06-d1f7e2bc/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_9627637e174aed 6
+tasks/world-225-je-06-d1f7e2bc/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_176ef2b2bbe7ed 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world-225-je-06-d1f7e2bc/tests/grade.py
+  s_4ea94d8aa98ef0::t_2af59f7ca08541 166-168
+tasks/world-225-je-06-d1f7e2bc/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_1d7ccccd121e40 10
+tasks/world-415-cd-02-c04aeb09/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_71a882450046c6 6
+tasks/world-415-cd-02-c04aeb09/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_0e0dba13959d5c 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world-415-cd-02-c04aeb09/tests/grade.py
+  s_4ea94d8aa98ef0::t_2fc1df6520b70e 166-168
+tasks/world-415-cd-02-c04aeb09/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_b4ae2a3fd7b3f1 10
+tasks/world-418-apa-01-a9e837e3/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_df5aed966f5451 6
+tasks/world-418-apa-01-a9e837e3/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_817561fa6a4db2 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world-418-apa-01-a9e837e3/tests/grade.py
+  s_4ea94d8aa98ef0::t_93154f63830061 166-168
+tasks/world-418-apa-01-a9e837e3/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_fc1ef49fdcdd6f 10
+tasks/world-419-um-01-ddd3e22e/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_8db3e2c236a91f 6
+tasks/world-419-um-01-ddd3e22e/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_a54734cdaeed88 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world-419-um-01-ddd3e22e/tests/grade.py
+  s_4ea94d8aa98ef0::t_352171b52dfb80 166-168
+tasks/world-419-um-01-ddd3e22e/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_dae743b712c28e 10
+tasks/world-420-lb-02-d6b33bef/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_2893a8bdda42d8 6
+tasks/world-420-lb-02-d6b33bef/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_4b53d5c0b59266 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world-420-lb-02-d6b33bef/tests/grade.py
+  s_4ea94d8aa98ef0::t_9f988f7378156f 166-168
+tasks/world-420-lb-02-d6b33bef/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_f18aa440168753 10
+tasks/world-420-lb-03-6e37bd28/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_24c32430e60a6e 6
+tasks/world-420-lb-03-6e37bd28/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_ad2c75d8957a4a 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world-420-lb-03-6e37bd28/tests/grade.py
+  s_4ea94d8aa98ef0::t_0f5c4d5c697a7e 166-168
+tasks/world-420-lb-03-6e37bd28/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_0c721b941316ce 10
+tasks/world-420-lb-06-4c9d88b3/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_290c6fa2d34002 6
+tasks/world-420-lb-06-4c9d88b3/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_db425d6ebb1958 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world-420-lb-06-4c9d88b3/tests/grade.py
+  s_4ea94d8aa98ef0::t_7a5a011214fdea 166-168
+tasks/world-420-lb-06-4c9d88b3/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_0556fb4da7ccbe 10
+tasks/world-420-zt-02-e3d12861/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_d0fa4225329899 6
+tasks/world-420-zt-02-e3d12861/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_1469d701dde0f6 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world-420-zt-02-e3d12861/tests/grade.py
+  s_4ea94d8aa98ef0::t_35066bc50936fa 166-168
+tasks/world-420-zt-02-e3d12861/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_ccc8e15568eb6b 10
+tasks/world-421-anb-02-2da2824a/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_01c95d748184be 6
+tasks/world-421-anb-02-2da2824a/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_dd551d44c9b7e3 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world-421-anb-02-2da2824a/tests/grade.py
+  s_4ea94d8aa98ef0::t_e56e77edf808bd 166-168
+tasks/world-421-anb-02-2da2824a/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_e5a7d6eb19f3a7 10
+tasks/world-421-oo-01-9398ad52/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_b7556b94863122 6
+tasks/world-421-oo-01-9398ad52/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_7554024a54cae6 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world-421-oo-01-9398ad52/tests/grade.py
+  s_4ea94d8aa98ef0::t_cf61d9796e47bd 166-168
+tasks/world-421-oo-01-9398ad52/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_9580c3a69d7d20 10
+tasks/world112-1-task05-na-cf44bbb8/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_8a93c9ee915323 6
+tasks/world112-1-task05-na-cf44bbb8/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_e1619bc4a6fa48 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world112-1-task05-na-cf44bbb8/tests/grade.py
+  s_4ea94d8aa98ef0::t_cf7e205f4e0702 166-168
+tasks/world112-1-task05-na-cf44bbb8/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_5f308c2166e464 10
+tasks/world112-1-tk-04-b26de1cb/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_7311ea96680f13 6
+tasks/world112-1-tk-04-b26de1cb/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_99f009ffd714ab 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world112-1-tk-04-b26de1cb/tests/grade.py
+  s_4ea94d8aa98ef0::t_74f3eb0b97dfa4 166-168
+tasks/world112-1-tk-04-b26de1cb/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_a5f550036ffba6 10
+tasks/world126-efa-01-9bf2f9d9/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_878cafb37a0daf 6
+tasks/world126-efa-01-9bf2f9d9/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_dfbc915bea735a 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world126-efa-01-9bf2f9d9/solution/answer.txt
+  s_4ea94d8aa98ef0::t_50f1f88c514633 3,8,12,17
+tasks/world126-efa-01-9bf2f9d9/tests/golden_responses.json
+  s_4ea94d8aa98ef0::t_61475fbb476583 3
+tasks/world126-efa-01-9bf2f9d9/tests/grade.py
+  s_4ea94d8aa98ef0::t_c1d399d1d28087 166-168
+tasks/world126-efa-01-9bf2f9d9/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_97b9a3e989fdd3 10
+tasks/world126-efa-04-bbf2e15f/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_db0e73d7dfaa05 6
+tasks/world126-efa-04-bbf2e15f/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_5fac2d1e1313ce 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world126-efa-04-bbf2e15f/tests/grade.py
+  s_4ea94d8aa98ef0::t_ec368937dbeb6d 166-168
+tasks/world126-efa-04-bbf2e15f/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_269ac51a4e721b 10
+tasks/world126-efa-05-501b62f6/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_67d1384d219a6f 6
+tasks/world126-efa-05-501b62f6/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_6e2da1da848e76 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world126-efa-05-501b62f6/tests/grade.py
+  s_4ea94d8aa98ef0::t_610a3084188ff0 166-168
+tasks/world126-efa-05-501b62f6/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_7ae72b5db1006f 10
+tasks/world126-jd-04-dc4fd808/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_bb220fd91d38ae 6
+tasks/world126-jd-04-dc4fd808/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_9d5c0cdee31204 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world126-jd-04-dc4fd808/tests/grade.py
+  s_4ea94d8aa98ef0::t_c5cfad5b401307 166-168
+tasks/world126-jd-04-dc4fd808/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_7240e5dbc22562 10
+tasks/world126-tk-04-f9002145/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_2c1a371c776db4 6
+tasks/world126-tk-04-f9002145/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_20174037459c81 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world126-tk-04-f9002145/tests/grade.py
+  s_4ea94d8aa98ef0::t_bd7359293e7be5 166-168
+tasks/world126-tk-04-f9002145/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_3e2825fb5aea0e 10
+tasks/world127-ak-task03-09619393/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_5db4e376dacffc 6
+tasks/world127-ak-task03-09619393/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_483c9f21852a9f 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world127-ak-task03-09619393/tests/grade.py
+  s_4ea94d8aa98ef0::t_6375cd5667bd1a 166-168
+tasks/world127-ak-task03-09619393/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_d68c78a3d4344f 10
+tasks/world127-am-task03-cab85eb0/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_b6426dd858dcb4 6
+tasks/world127-am-task03-cab85eb0/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_c3fdc3877e64d8 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world127-am-task03-cab85eb0/tests/grade.py
+  s_4ea94d8aa98ef0::t_2e8c9cc8c0d08c 166-168
+tasks/world127-am-task03-cab85eb0/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_b4e8d4d5e9dd34 10
+tasks/world130-al-zhoheir-hajim-04-f7f9a788/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_bbba06d53da2c9 6
+tasks/world130-al-zhoheir-hajim-04-f7f9a788/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_61006cfa294406 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world130-al-zhoheir-hajim-04-f7f9a788/tests/grade.py
+  s_4ea94d8aa98ef0::t_69d36ab00d32b4 166-168
+tasks/world130-al-zhoheir-hajim-04-f7f9a788/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_e26675d5eb3970 10
+tasks/world130-al-zhoheir-hajim-3-6f313e08/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_7c0e8b8ca335a9 6
+tasks/world130-al-zhoheir-hajim-3-6f313e08/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_413d6237728c77 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world130-al-zhoheir-hajim-3-6f313e08/tests/grade.py
+  s_4ea94d8aa98ef0::t_687e624f080790 166-168
+tasks/world130-al-zhoheir-hajim-3-6f313e08/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_7d5e6c4dca9f01 10
+tasks/world130-ho-08-991a7efc/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_13405963cf48b9 6
+tasks/world130-ho-08-991a7efc/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_a92e79df6c1fa9 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world130-ho-08-991a7efc/tests/grade.py
+  s_4ea94d8aa98ef0::t_ab5590b60f81b9 166-168
+tasks/world130-ho-08-991a7efc/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_3df0e06e5505e5 10
+tasks/world131-dv-03-152afeb3/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_b3cfd66e7674c9 6
+tasks/world131-dv-03-152afeb3/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_3e8811adccadd6 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world131-dv-03-152afeb3/tests/grade.py
+  s_4ea94d8aa98ef0::t_2f54db54c5a853 166-168
+tasks/world131-dv-03-152afeb3/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_3796ebedec64d8 10
+tasks/world131-dv-05-591f7fcf/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_4497c050b7c4ae 6
+tasks/world131-dv-05-591f7fcf/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_e81fb7d0dbe2d9 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world131-dv-05-591f7fcf/tests/grade.py
+  s_4ea94d8aa98ef0::t_38c1b8b981a326 166-168
+tasks/world131-dv-05-591f7fcf/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_ddfaae79d6dd82 10
+tasks/world131-ib-05-3c0a977d/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_8844be19700815 6
+tasks/world131-ib-05-3c0a977d/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_9da91f49a13783 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world131-ib-05-3c0a977d/instruction.md
+  s_4ea94d8aa98ef0::t_012a4bf07949cf 1
+tasks/world131-ib-05-3c0a977d/solution/instruction.md
+  s_4ea94d8aa98ef0::t_4bc9f4fda697d5 16
+tasks/world131-ib-05-3c0a977d/task.toml
+  s_4ea94d8aa98ef0::t_2d70c90a31b336 6
+tasks/world131-ib-05-3c0a977d/tests/golden_responses.json
+  s_4ea94d8aa98ef0::t_ad008ed21aa639 4
+tasks/world131-ib-05-3c0a977d/tests/grade.py
+  s_4ea94d8aa98ef0::t_809ac301333357 166-168
+tasks/world131-ib-05-3c0a977d/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_e3091e74ca7183 10,29-30,49-50,70-71,89-90,108-109,127-128
+tasks/world131-md-01-28df6b25/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_d009a106a77295 6
+tasks/world131-md-01-28df6b25/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_3ac2aa842fbbed 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world131-md-01-28df6b25/tests/grade.py
+  s_4ea94d8aa98ef0::t_61bdec183fc103 166-168
+tasks/world131-md-01-28df6b25/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_7fd2605cae75db 10
+tasks/world132-da-task03-3db0b339/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_626b5df98400a6 6
+tasks/world132-da-task03-3db0b339/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_07fec6043c9bb2 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world132-da-task03-3db0b339/tests/grade.py
+  s_4ea94d8aa98ef0::t_bd07b302eb000c 166-168
+tasks/world132-da-task03-3db0b339/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_690fbd6bd25c98 10
+tasks/world132-da-task05-a025ddde/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_4bd6949633fd32 6
+tasks/world132-da-task05-a025ddde/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_7db4834447b44c 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world132-da-task05-a025ddde/tests/grade.py
+  s_4ea94d8aa98ef0::t_dfd20428f71837 166-168
+tasks/world132-da-task05-a025ddde/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_b238e218985c06 10
+tasks/world132-da-task07-d7bf24d6/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_2dc2d007c49992 6
+tasks/world132-da-task07-d7bf24d6/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_c6f07fb7889eb7 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world132-da-task07-d7bf24d6/tests/grade.py
+  s_4ea94d8aa98ef0::t_7f09080aa3ed16 166-168
+tasks/world132-da-task07-d7bf24d6/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_fda3f08a439ff8 10
+tasks/world132-da-task08-15096439/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_e9f56b0026b606 6
+tasks/world132-da-task08-15096439/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_7f9ac608afbe5c 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world132-da-task08-15096439/tests/grade.py
+  s_4ea94d8aa98ef0::t_765a74681723aa 166-168
+tasks/world132-da-task08-15096439/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_27ed450561bd1e 10
+tasks/world132-pm-task03-e3766de4/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_c17987f8fa94e3 6
+tasks/world132-pm-task03-e3766de4/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_cbe6300b4c4c80 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world132-pm-task03-e3766de4/tests/grade.py
+  s_4ea94d8aa98ef0::t_f3288b725307e5 166-168
+tasks/world132-pm-task03-e3766de4/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_da836d345c9506 10
+tasks/world132-pm-task04-7cc783d8/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_fb96966e9b7d0f 6
+tasks/world132-pm-task04-7cc783d8/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_4e5439a8282a4a 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world132-pm-task04-7cc783d8/tests/grade.py
+  s_4ea94d8aa98ef0::t_3f42921ab978ca 166-168
+tasks/world132-pm-task04-7cc783d8/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_ab8f2dd5c69dc0 10
+tasks/world132-pm-task07-b206dfe1/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_7237580284cc57 6
+tasks/world132-pm-task07-b206dfe1/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_43e3ba343f93f6 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world132-pm-task07-b206dfe1/tests/grade.py
+  s_4ea94d8aa98ef0::t_b9c659a029ce4d 166-168
+tasks/world132-pm-task07-b206dfe1/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_1a430ff40c73ab 10
+tasks/world132-sf-task03-d7ca6183/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_594a0fc9fd7478 6
+tasks/world132-sf-task03-d7ca6183/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_2770b6f898df15 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world132-sf-task03-d7ca6183/tests/grade.py
+  s_4ea94d8aa98ef0::t_49348b4dcea2cc 166-168
+tasks/world132-sf-task03-d7ca6183/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_95fee22662a994 10
+tasks/world133-ln-04-009ff905/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_6ac370e0cd9dc6 6
+tasks/world133-ln-04-009ff905/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_9abb76afc92315 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world133-ln-04-009ff905/tests/grade.py
+  s_4ea94d8aa98ef0::t_9d24938552cf96 166-168
+tasks/world133-ln-04-009ff905/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_8292549802c9a5 10
+tasks/world133-ln-05-b989446d/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_08aed7d8c8b450 6
+tasks/world133-ln-05-b989446d/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_58ed6012d64987 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world133-ln-05-b989446d/tests/grade.py
+  s_4ea94d8aa98ef0::t_d8764f6b949a61 166-168
+tasks/world133-ln-05-b989446d/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_fca20bb0986a5e 10
+tasks/world135-sf-task03-5716be6e/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_d4599d4612c2c6 6
+tasks/world135-sf-task03-5716be6e/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_8b4d5f388296c4 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world135-sf-task03-5716be6e/tests/grade.py
+  s_4ea94d8aa98ef0::t_020e717a810c8d 166-168
+tasks/world135-sf-task03-5716be6e/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_9104833fdec7c1 10
+tasks/world219-ff-task2-8e52be5a/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_24da6a4a89c115 6
+tasks/world219-ff-task2-8e52be5a/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_e9d6273a05233c 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world219-ff-task2-8e52be5a/tests/grade.py
+  s_4ea94d8aa98ef0::t_0b4725b076efc9 166-168
+tasks/world219-ff-task2-8e52be5a/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_31b4e125ab1c22 10
+tasks/world219-oa-task1-318342af/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_f70a8cfa7873ed 6
+tasks/world219-oa-task1-318342af/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_2744ab1c9008bd 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world219-oa-task1-318342af/tests/grade.py
+  s_4ea94d8aa98ef0::t_4ecdc771b7587f 166-168
+tasks/world219-oa-task1-318342af/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_02bee2ecb34684 10
+tasks/world219-seed-task-04-559be363/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_ea8345dbaca564 6
+tasks/world219-seed-task-04-559be363/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_0d92ef7a9f1679 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world219-seed-task-04-559be363/tests/grade.py
+  s_4ea94d8aa98ef0::t_0a4b335a93a279 166-168
+tasks/world219-seed-task-04-559be363/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_760445673a2215 10
+tasks/world219-seed-task-06-334dea71/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_489b35a5bd2ac8 6
+tasks/world219-seed-task-06-334dea71/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_68577836cf809d 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world219-seed-task-06-334dea71/tests/grade.py
+  s_4ea94d8aa98ef0::t_1c3c89d172f8fd 166-168
+tasks/world219-seed-task-06-334dea71/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_30edefaba0347f 10
+tasks/world219-seed-task-09-ff-9da08494/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_ca8e7ac8096d7a 6
+tasks/world219-seed-task-09-ff-9da08494/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_c6ab817248c747 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world219-seed-task-09-ff-9da08494/tests/grade.py
+  s_4ea94d8aa98ef0::t_4988de8724e53f 166-168
+tasks/world219-seed-task-09-ff-9da08494/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_f52cd60220e8b6 10
+tasks/world219-tg-01-8c93245b/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_2f17a0d7b46e80 6
+tasks/world219-tg-01-8c93245b/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_b449d520af3ce5 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world219-tg-01-8c93245b/tests/grade.py
+  s_4ea94d8aa98ef0::t_9e34e1270b641d 166-168
+tasks/world219-tg-01-8c93245b/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_045282e71e194e 10
+tasks/world219-tg-04-d08a16f0/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_4a41ae4c0233db 6
+tasks/world219-tg-04-d08a16f0/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_785f581a994fa6 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world219-tg-04-d08a16f0/tests/grade.py
+  s_4ea94d8aa98ef0::t_832105d7b46971 166-168
+tasks/world219-tg-04-d08a16f0/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_74b7d3bc70029f 10
+tasks/world219-tg-05-9854aa2d/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_4deed5e02851c8 6
+tasks/world219-tg-05-9854aa2d/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_38dcc3f5916946 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world219-tg-05-9854aa2d/tests/grade.py
+  s_4ea94d8aa98ef0::t_4e9996cd625174 166-168
+tasks/world219-tg-05-9854aa2d/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_53405425aa7f4c 10
+tasks/world219-tg-06-45c556b3/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_23e081bc08d735 6
+tasks/world219-tg-06-45c556b3/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_994d69c7aa61aa 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world219-tg-06-45c556b3/tests/grade.py
+  s_4ea94d8aa98ef0::t_85e2a14eb4ad19 166-168
+tasks/world219-tg-06-45c556b3/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_5930e825993977 10
+tasks/world221-hy-01-e2ae04a7/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_2f5d278b7dff4e 6
+tasks/world221-hy-01-e2ae04a7/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_937dee6a087589 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world221-hy-01-e2ae04a7/tests/grade.py
+  s_4ea94d8aa98ef0::t_de681f688ab515 166-168
+tasks/world221-hy-01-e2ae04a7/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_6234d4d93eeef4 10
+tasks/world221-oa-2-44073f52/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_181c5497428c16 6
+tasks/world221-oa-2-44073f52/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_d0420a8ad5df4f 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world221-oa-2-44073f52/tests/grade.py
+  s_4ea94d8aa98ef0::t_2baebcba955421 166-168
+tasks/world221-oa-2-44073f52/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_19b95ce82173ef 10
+tasks/world221-oa-3-d4497b80/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_d1a22a072e6265 6
+tasks/world221-oa-3-d4497b80/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_10ed1933e76d71 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world221-oa-3-d4497b80/tests/grade.py
+  s_4ea94d8aa98ef0::t_a7b514726efe08 166-168
+tasks/world221-oa-3-d4497b80/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_6a7a2aa7b9f695 10
+tasks/world221-oa-4-7d9c6888/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_1262c9892e759a 6
+tasks/world221-oa-4-7d9c6888/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_1217753b3b305f 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world221-oa-4-7d9c6888/tests/grade.py
+  s_4ea94d8aa98ef0::t_50bd3412ed7660 166-168
+tasks/world221-oa-4-7d9c6888/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_aab3f045f11926 10
+tasks/world221-oa-8-67be0af1/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_49369cbd9ef0ad 6
+tasks/world221-oa-8-67be0af1/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_9ed9c5898be60f 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world221-oa-8-67be0af1/tests/grade.py
+  s_4ea94d8aa98ef0::t_583f7e5af425f0 166-168
+tasks/world221-oa-8-67be0af1/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_fbabb47120a0cd 10
+tasks/world221-oa-9-f98a186a/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_7f7e02822d3ac5 6
+tasks/world221-oa-9-f98a186a/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_91490602b85812 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world221-oa-9-f98a186a/tests/grade.py
+  s_4ea94d8aa98ef0::t_7444197238d15b 166-168
+tasks/world221-oa-9-f98a186a/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_5f63c49bd75baa 10
+tasks/world221-tr-01-d4fc3833/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_23b2b14e9ace30 6
+tasks/world221-tr-01-d4fc3833/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_25d1c12507a64f 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world221-tr-01-d4fc3833/tests/grade.py
+  s_4ea94d8aa98ef0::t_d591ba8f4cdbaf 166-168
+tasks/world221-tr-01-d4fc3833/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_bfc771e090e079 10
+tasks/world221-tr-10-39f4923f/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_837cf8522a6676 6
+tasks/world221-tr-10-39f4923f/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_cfec558f6e49b0 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world221-tr-10-39f4923f/tests/grade.py
+  s_4ea94d8aa98ef0::t_4b54abfc02ff29 166-168
+tasks/world221-tr-10-39f4923f/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_8a77e555db618f 10
+tasks/world223-av-01-abaf6982/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_83b8a3bd95fa3f 6
+tasks/world223-av-01-abaf6982/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_d3bc51664a294d 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world223-av-01-abaf6982/tests/grade.py
+  s_4ea94d8aa98ef0::t_e9da5ad1cbb308 166-168
+tasks/world223-av-01-abaf6982/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_f0484090a63b2d 10
+tasks/world223-av-03-5e929377/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_31a5d601fd9b2c 6
+tasks/world223-av-03-5e929377/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_bc773bd36ea53b 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world223-av-03-5e929377/tests/grade.py
+  s_4ea94d8aa98ef0::t_04d2474325e2fc 166-168
+tasks/world223-av-03-5e929377/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_61fea43aca10ad 10
+tasks/world223-av-04-3397c759/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_ff364c4b6fdab7 6
+tasks/world223-av-04-3397c759/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_e06531cf93ff05 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world223-av-04-3397c759/tests/grade.py
+  s_4ea94d8aa98ef0::t_5b748a617dbc79 166-168
+tasks/world223-av-04-3397c759/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_745e7c3b7e89c3 10
+tasks/world223-es-01-4e64f4e3/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_ad3881f01a276e 6
+tasks/world223-es-01-4e64f4e3/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_9c689190d83570 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world223-es-01-4e64f4e3/tests/golden_responses.json
+  s_4ea94d8aa98ef0::t_4c6276d0375931 4
+tasks/world223-es-01-4e64f4e3/tests/grade.py
+  s_4ea94d8aa98ef0::t_07ca4f58c4aa46 166-168
+tasks/world223-es-01-4e64f4e3/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_3bd44c67cb0b91 10,27,49,71,93,115,137
+tasks/world223-es-02-965b01c7/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_233b0367f0087e 6
+tasks/world223-es-02-965b01c7/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_f28a8b0288e49e 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world223-es-02-965b01c7/tests/golden_responses.json
+  s_4ea94d8aa98ef0::t_f57836e49e7d9a 4
+tasks/world223-es-02-965b01c7/tests/grade.py
+  s_4ea94d8aa98ef0::t_13682134ada5ff 166-168
+tasks/world223-es-02-965b01c7/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_f2e33237b7f264 10
+tasks/world223-es-05-e6fedd35/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_33d0738e3b1573 6
+tasks/world223-es-05-e6fedd35/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_756a4ccfbe956b 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world223-es-05-e6fedd35/tests/grade.py
+  s_4ea94d8aa98ef0::t_c2a94214cf168e 166-168
+tasks/world223-es-05-e6fedd35/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_ff1ec112ae675f 10
+tasks/world223-ob-04-c69e2b2a/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_c3eab2fd70f2c8 6
+tasks/world223-ob-04-c69e2b2a/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_00fcc7cd2f97d9 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world223-ob-04-c69e2b2a/tests/grade.py
+  s_4ea94d8aa98ef0::t_7dd337a41ee97b 166-168
+tasks/world223-ob-04-c69e2b2a/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_91c92322921126 10
+tasks/world223-smn-02-088bee6c/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_37321deb833217 6
+tasks/world223-smn-02-088bee6c/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_9182ee41656469 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world223-smn-02-088bee6c/instruction.md
+  s_4ea94d8aa98ef0::t_2ebbab07901c4e 1,3-9,12-17
+tasks/world223-smn-02-088bee6c/solution/answer.txt
+  s_4ea94d8aa98ef0::t_82602aaa93c332 1-4
+tasks/world223-smn-02-088bee6c/solution/instruction.md
+  s_4ea94d8aa98ef0::t_f3445a87c8c2cb 16,18-24,27-32
+tasks/world223-smn-02-088bee6c/tests/golden_responses.json
+  s_4ea94d8aa98ef0::t_5e189de1c1423a 3
+tasks/world223-smn-02-088bee6c/tests/grade.py
+  s_4ea94d8aa98ef0::t_a2d886b8292562 166-168
+tasks/world223-smn-02-088bee6c/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_a50a09cbe29254 10
+tasks/world223-smn-04-c38a392f/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_812ccaa4f8d945 6
+tasks/world223-smn-04-c38a392f/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_4e722dd00ad4df 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world223-smn-04-c38a392f/tests/grade.py
+  s_4ea94d8aa98ef0::t_70fffc0e3f7b8e 166-168
+tasks/world223-smn-04-c38a392f/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_232c7e2ecd1c4b 10
+tasks/world223-smn-05-b00d08c1/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_cf7efb16189174 6
+tasks/world223-smn-05-b00d08c1/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_4c62afc280f775 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world223-smn-05-b00d08c1/tests/grade.py
+  s_4ea94d8aa98ef0::t_0fee40bc21f01a 166-168
+tasks/world223-smn-05-b00d08c1/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_851a34b29121cc 10
+tasks/world223-smn-08-a0a05e88/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_7adc9751d68ad4 6
+tasks/world223-smn-08-a0a05e88/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_2145c67d179fba 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world223-smn-08-a0a05e88/tests/grade.py
+  s_4ea94d8aa98ef0::t_49baa2a13840cf 166-168
+tasks/world223-smn-08-a0a05e88/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_463e1c530aebfe 10
+tasks/world224-hs-02-2ba35245/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_c5325c7e83447b 6
+tasks/world224-hs-02-2ba35245/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_1bf3540a34a045 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world224-hs-02-2ba35245/tests/grade.py
+  s_4ea94d8aa98ef0::t_d2f745e0a71d5e 166-168
+tasks/world224-hs-02-2ba35245/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_a7c37a949e6452 10
+tasks/world224-hs-05-f8ba862f/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_20f29521b6fb9e 6
+tasks/world224-hs-05-f8ba862f/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_40c3a7501657f0 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world224-hs-05-f8ba862f/tests/grade.py
+  s_4ea94d8aa98ef0::t_7d7dea604b7611 166-168
+tasks/world224-hs-05-f8ba862f/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_dfa3e953aee807 10
+tasks/world224-hs-09-56aefeb6/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_766bdb1ff57b51 6
+tasks/world224-hs-09-56aefeb6/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_894700bad001a6 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world224-hs-09-56aefeb6/tests/grade.py
+  s_4ea94d8aa98ef0::t_327d12269ee048 166-168
+tasks/world224-hs-09-56aefeb6/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_cf11f7a2fe8eec 10
+tasks/world224-hs-10-4f232c35/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_419fdaaf5107c5 6
+tasks/world224-hs-10-4f232c35/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_b0b36ecc67a3a6 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world224-hs-10-4f232c35/tests/golden_responses.json
+  s_4ea94d8aa98ef0::t_3b2416d9c02146 4
+tasks/world224-hs-10-4f232c35/tests/grade.py
+  s_4ea94d8aa98ef0::t_a2c580e1c42bdb 166-168
+tasks/world224-hs-10-4f232c35/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_71583d662ef926 10
+tasks/world224-hs-11-7bf318b0/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_f94fbbdbac6faf 6
+tasks/world224-hs-11-7bf318b0/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_dcb2a192a6b708 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world224-hs-11-7bf318b0/tests/grade.py
+  s_4ea94d8aa98ef0::t_2d2c3d399131a1 166-168
+tasks/world224-hs-11-7bf318b0/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_bfc67b1e7a9177 10
+tasks/world224-jr-02-a4bb5a54/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_c8d602da124a0a 6
+tasks/world224-jr-02-a4bb5a54/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_c17ef28f2282b0 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world224-jr-02-a4bb5a54/instruction.md
+  s_4ea94d8aa98ef0::t_9b3a8fd3d69a6d 12
+tasks/world224-jr-02-a4bb5a54/solution/instruction.md
+  s_4ea94d8aa98ef0::t_b89cc0e4dd0124 27
+tasks/world224-jr-02-a4bb5a54/tests/golden_responses.json
+  s_4ea94d8aa98ef0::t_da5f4d1956d126 4
+tasks/world224-jr-02-a4bb5a54/tests/grade.py
+  s_4ea94d8aa98ef0::t_a76b5bf283769f 166-168
+tasks/world224-jr-02-a4bb5a54/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_131e91b9a730bb 10,30,32-33
+tasks/world224-os-task02-a3a73f46/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_92fd612534230d 6
+tasks/world224-os-task02-a3a73f46/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_1235d9b9bae506 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world224-os-task02-a3a73f46/solution/answer.txt
+  s_4ea94d8aa98ef0::t_86af0a5eb7d81a 1-14
+tasks/world224-os-task02-a3a73f46/tests/golden_responses.json
+  s_4ea94d8aa98ef0::t_686f5d1b38ab29 3
+tasks/world224-os-task02-a3a73f46/tests/grade.py
+  s_4ea94d8aa98ef0::t_25691443194038 166-168
+tasks/world224-os-task02-a3a73f46/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_dd37b0b6bc79c0 10
+tasks/world224-os-task04-c5d0e9d7/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_ec831015988d28 6
+tasks/world224-os-task04-c5d0e9d7/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_21ce86bbde3008 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world224-os-task04-c5d0e9d7/tests/grade.py
+  s_4ea94d8aa98ef0::t_eae3655ed9e97f 166-168
+tasks/world224-os-task04-c5d0e9d7/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_0defaa092f14dc 10
+tasks/world224-os-task05-16446237/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_ec9bea738296ca 6
+tasks/world224-os-task05-16446237/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_8b791fe4d97813 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world224-os-task05-16446237/tests/grade.py
+  s_4ea94d8aa98ef0::t_e040440b8bbcc2 166-168
+tasks/world224-os-task05-16446237/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_e2cf9e7c3e5c22 10
+tasks/world224-sk-task01-f8b6f40d/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_b1fd9dd75bb6a1 6
+tasks/world224-sk-task01-f8b6f40d/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_722a6c32dcf07e 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world224-sk-task01-f8b6f40d/tests/grade.py
+  s_4ea94d8aa98ef0::t_9d1e16ad7ced1e 166-168
+tasks/world224-sk-task01-f8b6f40d/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_2d91456dd07d76 10
+tasks/world224-sk-task03-dfcbb713/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_b3ce59e225170f 6
+tasks/world224-sk-task03-dfcbb713/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_c532893fa09899 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world224-sk-task03-dfcbb713/solution/answer.txt
+  s_4ea94d8aa98ef0::t_3b8accf47e0019 1-4
+tasks/world224-sk-task03-dfcbb713/tests/golden_responses.json
+  s_4ea94d8aa98ef0::t_037d515888dd4d 3
+tasks/world224-sk-task03-dfcbb713/tests/grade.py
+  s_4ea94d8aa98ef0::t_a6aadce7178108 166-168
+tasks/world224-sk-task03-dfcbb713/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_2dede90f0ffda4 10
+tasks/world225-av-02-55d8f94f/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_ed380ed461634e 6
+tasks/world225-av-02-55d8f94f/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_d806ef3a754794 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world225-av-02-55d8f94f/tests/grade.py
+  s_4ea94d8aa98ef0::t_a045419bc08e23 166-168
+tasks/world225-av-02-55d8f94f/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_f64c51f0bb0842 10
+tasks/world225-dk-01-013dab88/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_ab7a01f1c4e9b5 6
+tasks/world225-dk-01-013dab88/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_070b58ca62dd65 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world225-dk-01-013dab88/tests/grade.py
+  s_4ea94d8aa98ef0::t_c491178511bacf 166-168
+tasks/world225-dk-01-013dab88/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_3aad25e3627772 10
+tasks/world225-dk-02-1f9714bb/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_991bc53ff639fc 6
+tasks/world225-dk-02-1f9714bb/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_662c10b8cd699f 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world225-dk-02-1f9714bb/tests/grade.py
+  s_4ea94d8aa98ef0::t_f7f5a58fecd31a 166-168
+tasks/world225-dk-02-1f9714bb/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_34df1d59ce3eff 10
+tasks/world225-km-06-19899d4e/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_f23873d3bcd70f 6
+tasks/world225-km-06-19899d4e/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_777fe12eac6c56 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world225-km-06-19899d4e/tests/grade.py
+  s_4ea94d8aa98ef0::t_6099d5c44b6458 166-168
+tasks/world225-km-06-19899d4e/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_de831cd577386d 10
+tasks/world225-mb-03-9e4a1b17/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_00af9ed95bf9e4 6
+tasks/world225-mb-03-9e4a1b17/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_5c28fb090ff35e 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world225-mb-03-9e4a1b17/tests/grade.py
+  s_4ea94d8aa98ef0::t_40d179a7fe088b 166-168
+tasks/world225-mb-03-9e4a1b17/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_80e977ca0e5cf0 10
+tasks/world225-nb-04-ad89d7af/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_84c8d31824043f 6
+tasks/world225-nb-04-ad89d7af/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_87222d21b08283 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world225-nb-04-ad89d7af/tests/grade.py
+  s_4ea94d8aa98ef0::t_3f95560fd2a167 166-168
+tasks/world225-nb-04-ad89d7af/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_c25f1beb4076ec 10
+tasks/world225-rl-task01-45ba9aaf/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_26247f095b9f44 6
+tasks/world225-rl-task01-45ba9aaf/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_85af9cef71b18e 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world225-rl-task01-45ba9aaf/tests/grade.py
+  s_4ea94d8aa98ef0::t_e9d2f005b8237b 166-168
+tasks/world225-rl-task01-45ba9aaf/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_dc7406ffddeb88 10
+tasks/world225-rl-task02-56fc4617/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_a2b4345f28ab67 6
+tasks/world225-rl-task02-56fc4617/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_ab20cbfce9b087 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world225-rl-task02-56fc4617/tests/grade.py
+  s_4ea94d8aa98ef0::t_e071a0bc134548 166-168
+tasks/world225-rl-task02-56fc4617/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_b63afd91c18f82 10
+tasks/world225-rl-task04-04cd11af/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_f9ced1bab4edc8 6
+tasks/world225-rl-task04-04cd11af/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_851e131bb21bf2 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world225-rl-task04-04cd11af/tests/grade.py
+  s_4ea94d8aa98ef0::t_10b63fa0318add 166-168
+tasks/world225-rl-task04-04cd11af/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_657ab568900b1f 10
+tasks/world226-rm-02-08c62dec/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_7e1d0d39182af5 6
+tasks/world226-rm-02-08c62dec/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_3fb19028fc7a14 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world226-rm-02-08c62dec/tests/grade.py
+  s_4ea94d8aa98ef0::t_60023f13dd1162 166-168
+tasks/world226-rm-02-08c62dec/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_211d2bd9cd5612 10
+tasks/world226-rm-04-8d085d2b/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_e1a1047e7259d5 6
+tasks/world226-rm-04-8d085d2b/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_c33b9a9f9796f6 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world226-rm-04-8d085d2b/tests/grade.py
+  s_4ea94d8aa98ef0::t_4bd874aeb0baae 166-168
+tasks/world226-rm-04-8d085d2b/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_8176fe12aa5285 10
+tasks/world226-rm-06-17f6c991/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_73fecfc3aaf284 6
+tasks/world226-rm-06-17f6c991/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_2da14ce3d75e7e 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world226-rm-06-17f6c991/tests/grade.py
+  s_4ea94d8aa98ef0::t_6a04da4bf87bde 166-168
+tasks/world226-rm-06-17f6c991/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_721af4ec4866d4 10
+tasks/world226-sk-task03-a0be269a/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_b4cb205904d350 6
+tasks/world226-sk-task03-a0be269a/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_99fc1a44342530 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world226-sk-task03-a0be269a/tests/grade.py
+  s_4ea94d8aa98ef0::t_b9bef07ba31610 166-168
+tasks/world226-sk-task03-a0be269a/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_ce0362353cd908 10
+tasks/world226-ta-01-c945f64f/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_5806a9456c1c04 6
+tasks/world226-ta-01-c945f64f/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_1ae9e84ff4eb46 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world226-ta-01-c945f64f/tests/grade.py
+  s_4ea94d8aa98ef0::t_8d77fb4a2725a8 166-168
+tasks/world226-ta-01-c945f64f/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_ac84e4108011e2 10
+tasks/world226-td-01-eb948f85/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_58fd2ab0dbc5eb 6
+tasks/world226-td-01-eb948f85/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_88dde8a9b259cf 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world226-td-01-eb948f85/tests/grade.py
+  s_4ea94d8aa98ef0::t_f92674bfdd9c73 166-168
+tasks/world226-td-01-eb948f85/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_cb1ee7918305f3 10
+tasks/world226-td-02-02f66e09/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_b4ff529eb09f82 6
+tasks/world226-td-02-02f66e09/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_8aa034a385e53c 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world226-td-02-02f66e09/tests/grade.py
+  s_4ea94d8aa98ef0::t_de695c567a9212 166-168
+tasks/world226-td-02-02f66e09/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_b7649931f8890e 10
+tasks/world226-td-03-a329bd13/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_fbf2ef28204f1e 6
+tasks/world226-td-03-a329bd13/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_f49861aa5c781b 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world226-td-03-a329bd13/tests/grade.py
+  s_4ea94d8aa98ef0::t_d989b6690d363e 166-168
+tasks/world226-td-03-a329bd13/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_b591a687620513 10
+tasks/world227-jz-task03-135a8483/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_716e35989e135a 6
+tasks/world227-jz-task03-135a8483/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_f39f1ebc884026 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world227-jz-task03-135a8483/tests/grade.py
+  s_4ea94d8aa98ef0::t_d99157d378823b 166-168
+tasks/world227-jz-task03-135a8483/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_eff724f3ec156b 10
+tasks/world227-sk-task03-8ad609bc/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_9bef1f64908f58 6
+tasks/world227-sk-task03-8ad609bc/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_e8f51f09475723 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world227-sk-task03-8ad609bc/tests/grade.py
+  s_4ea94d8aa98ef0::t_1ded36daa0b519 166-168
+tasks/world227-sk-task03-8ad609bc/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_320780dd3c1e89 10
+tasks/world227-sk-task06-ad8e3628/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_842ee24d586294 6
+tasks/world227-sk-task06-ad8e3628/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_e492b3f4ed16bf 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world227-sk-task06-ad8e3628/tests/grade.py
+  s_4ea94d8aa98ef0::t_846e3028693910 166-168
+tasks/world227-sk-task06-ad8e3628/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_c8943bde2be96e 10
+tasks/world227-sk-task07-d2f6c00c/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_ccb468fd20c04b 6
+tasks/world227-sk-task07-d2f6c00c/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_ff719646013468 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world227-sk-task07-d2f6c00c/tests/grade.py
+  s_4ea94d8aa98ef0::t_324122e44dc6a2 166-168
+tasks/world227-sk-task07-d2f6c00c/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_90fc9983ba99d6 10
+tasks/world227-sk-task08-b138d09f/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_e68ef75577b1a7 6
+tasks/world227-sk-task08-b138d09f/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_99063e8de62bc4 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world227-sk-task08-b138d09f/tests/grade.py
+  s_4ea94d8aa98ef0::t_b48676d8a5a038 166-168
+tasks/world227-sk-task08-b138d09f/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_ef513d9c1667c2 10
+tasks/world227-tg-02-04c3b6c7/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_d792b8fdc900cb 6
+tasks/world227-tg-02-04c3b6c7/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_1fe0be0a75331d 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world227-tg-02-04c3b6c7/tests/grade.py
+  s_4ea94d8aa98ef0::t_932df10f0bc7a6 166-168
+tasks/world227-tg-02-04c3b6c7/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_b3708b29601cb8 10
+tasks/world227-tg-07-c2f84823/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_1ef7cf6cc6dadf 6
+tasks/world227-tg-07-c2f84823/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_149900f82d2de9 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world227-tg-07-c2f84823/tests/grade.py
+  s_4ea94d8aa98ef0::t_153fc0f2d51622 166-168
+tasks/world227-tg-07-c2f84823/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_dd1dc3e7525fe6 10
+tasks/world227-tg-08-58b05f68/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_c85cd268145fcb 6
+tasks/world227-tg-08-58b05f68/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_83c5bbdf02e40b 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world227-tg-08-58b05f68/tests/grade.py
+  s_4ea94d8aa98ef0::t_7796c845722639 166-168
+tasks/world227-tg-08-58b05f68/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_f1d1adfd326f48 10
+tasks/world228-ia-02-eae0b563/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_7ff23d98bc9156 6
+tasks/world228-ia-02-eae0b563/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_2737f60c5d83f3 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world228-ia-02-eae0b563/tests/grade.py
+  s_4ea94d8aa98ef0::t_ec8f1d06fb52c5 166-168
+tasks/world228-ia-02-eae0b563/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_19cc38295132a4 10
+tasks/world228-jk-01-08d7bf2c/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_1c73ca80d32586 6
+tasks/world228-jk-01-08d7bf2c/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_0b4d972edc6955 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world228-jk-01-08d7bf2c/tests/golden_responses.json
+  s_4ea94d8aa98ef0::t_8dccd5379ab0a9 4
+tasks/world228-jk-01-08d7bf2c/tests/grade.py
+  s_4ea94d8aa98ef0::t_5e0892bd1cc381 166-168
+tasks/world228-jk-01-08d7bf2c/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_04eb20e1e2f197 10,84,104
+tasks/world228-jk-02-78243c40/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_309eb57d38806e 6
+tasks/world228-jk-02-78243c40/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_fffeb7081e1d24 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world228-jk-02-78243c40/tests/grade.py
+  s_4ea94d8aa98ef0::t_412d116064e04e 166-168
+tasks/world228-jk-02-78243c40/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_696a79841ac07b 10
+tasks/world228-jp-01-9700a477/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_7ef35288c1cad4 6
+tasks/world228-jp-01-9700a477/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_8cccb538e6d774 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world228-jp-01-9700a477/tests/grade.py
+  s_4ea94d8aa98ef0::t_c904d162139950 166-168
+tasks/world228-jp-01-9700a477/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_d04904ea06cbf2 10
+tasks/world228-jp-02-141aa009/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_29238eb7df212e 6
+tasks/world228-jp-02-141aa009/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_de633a989daed2 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world228-jp-02-141aa009/tests/grade.py
+  s_4ea94d8aa98ef0::t_902227bad8a943 166-168
+tasks/world228-jp-02-141aa009/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_3b313e25bb9e9f 10
+tasks/world228-jp-05-8f936239/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_d29fb37763049f 6
+tasks/world228-jp-05-8f936239/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_9b8275bd132976 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world228-jp-05-8f936239/tests/grade.py
+  s_4ea94d8aa98ef0::t_aed9b02c02be46 166-168
+tasks/world228-jp-05-8f936239/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_daee944e1c8dd7 10
+tasks/world228-sm-task02-b0448b54/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_1e6febc5b88890 6
+tasks/world228-sm-task02-b0448b54/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_24a2671bb6bddd 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world228-sm-task02-b0448b54/tests/grade.py
+  s_4ea94d8aa98ef0::t_2f65df0d1ab875 166-168
+tasks/world228-sm-task02-b0448b54/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_df50338a90b095 10
+tasks/world228-sm-task04-2add8328/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_f01151ce1828f2 6
+tasks/world228-sm-task04-2add8328/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_c72c3105b41150 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world228-sm-task04-2add8328/tests/grade.py
+  s_4ea94d8aa98ef0::t_3ee685b179c6dd 166-168
+tasks/world228-sm-task04-2add8328/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_d0d7b6aa9063f3 10
+tasks/world228-sm-task06-148a274e/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_40a8e41c011b31 6
+tasks/world228-sm-task06-148a274e/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_43db0cf9c64671 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world228-sm-task06-148a274e/tests/grade.py
+  s_4ea94d8aa98ef0::t_66dd0e3c9bc89f 166-168
+tasks/world228-sm-task06-148a274e/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_15ddbf122851f2 10
+tasks/world228-sm-task08-11f60d76/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_e8328ab9869c98 6
+tasks/world228-sm-task08-11f60d76/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_051b92fad46142 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world228-sm-task08-11f60d76/tests/grade.py
+  s_4ea94d8aa98ef0::t_4022e76fb1c154 166-168
+tasks/world228-sm-task08-11f60d76/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_d787a9addfa49a 10
+tasks/world228-sm-task10-d0d1a118/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_e8b91ca90843d7 6
+tasks/world228-sm-task10-d0d1a118/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_1dc71f88201008 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world228-sm-task10-d0d1a118/tests/grade.py
+  s_4ea94d8aa98ef0::t_4da1dcba92a45e 166-168
+tasks/world228-sm-task10-d0d1a118/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_3fb2fc48bc291d 10
+tasks/world415-dm-01-b7605edf/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_f2245a5d4a262f 6
+tasks/world415-dm-01-b7605edf/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_7a0fa5292703a9 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world415-dm-01-b7605edf/tests/grade.py
+  s_4ea94d8aa98ef0::t_7e91a39432c68e 166-168
+tasks/world415-dm-01-b7605edf/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_c9d8e46e356b4a 10
+tasks/world415-im-01-84006694/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_e3d1358033c37a 6
+tasks/world415-im-01-84006694/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_29f317f2292464 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world415-im-01-84006694/solution/answer.txt
+  s_4ea94d8aa98ef0::t_3c9e94c7b3d458 1,3,5
+tasks/world415-im-01-84006694/tests/golden_responses.json
+  s_4ea94d8aa98ef0::t_a55bb321ca5d17 3
+tasks/world415-im-01-84006694/tests/grade.py
+  s_4ea94d8aa98ef0::t_4c9ea889985742 166-168
+tasks/world415-im-01-84006694/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_5a4e31effa2327 10
+tasks/world416-js-01-44b9046f/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_a5283aa1197190 6
+tasks/world416-js-01-44b9046f/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_46fddcf8ea5021 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world416-js-01-44b9046f/tests/grade.py
+  s_4ea94d8aa98ef0::t_9dc23136dbf3e1 166-168
+tasks/world416-js-01-44b9046f/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_14cb312ba629de 10
+tasks/world416-js-02-029d3e95/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_91fb434a8d95ae 6
+tasks/world416-js-02-029d3e95/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_7cdcdfcd57a1da 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world416-js-02-029d3e95/tests/grade.py
+  s_4ea94d8aa98ef0::t_7cab48f4494982 166-168
+tasks/world416-js-02-029d3e95/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_cfe22fbab49410 10
+tasks/world416-tk-02-9ff1dc24/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_525ea0dd89cff2 6
+tasks/world416-tk-02-9ff1dc24/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_df0c32363ea2c2 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world416-tk-02-9ff1dc24/solution/answer.txt
+  s_4ea94d8aa98ef0::t_838df8f69ffe0c 1-5
+tasks/world416-tk-02-9ff1dc24/tests/golden_responses.json
+  s_4ea94d8aa98ef0::t_cb6d47dd0435da 3
+tasks/world416-tk-02-9ff1dc24/tests/grade.py
+  s_4ea94d8aa98ef0::t_5ae3263236e9ea 166-168
+tasks/world416-tk-02-9ff1dc24/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_1936c7f0f422c2 10
+tasks/world417-tg-03-83b4a9e2/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_8ffc7d2657ab7b 6
+tasks/world417-tg-03-83b4a9e2/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_5f9137fd54e8a9 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world417-tg-03-83b4a9e2/tests/grade.py
+  s_4ea94d8aa98ef0::t_feab0034ccf286 166-168
+tasks/world417-tg-03-83b4a9e2/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_fe39dcae520ac0 10
+tasks/world417-ts-04-ba4d7322/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_37872fb9a5861b 6
+tasks/world417-ts-04-ba4d7322/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_56669f632220b3 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world417-ts-04-ba4d7322/tests/grade.py
+  s_4ea94d8aa98ef0::t_129987ac0d871a 166-168
+tasks/world417-ts-04-ba4d7322/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_ea9ddce468fc05 10
+tasks/world418-ah-01-88f58446/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_c72d6d93a57e6f 6
+tasks/world418-ah-01-88f58446/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_727f0c58de594e 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world418-ah-01-88f58446/solution/answer.txt
+  s_4ea94d8aa98ef0::t_d8b0c8bb133e52 1
+tasks/world418-ah-01-88f58446/tests/golden_responses.json
+  s_4ea94d8aa98ef0::t_ea523be96bb74a 3
+tasks/world418-ah-01-88f58446/tests/grade.py
+  s_4ea94d8aa98ef0::t_a5d119f61ad996 166-168
+tasks/world418-ah-01-88f58446/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_d008c097312170 10
+tasks/world418-ek-01-13050e0a/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_1655a5e786a0a5 6
+tasks/world418-ek-01-13050e0a/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_efadcde2e7ea9b 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world418-ek-01-13050e0a/solution/answer.txt
+  s_4ea94d8aa98ef0::t_e943b9952b474f 1,3
+tasks/world418-ek-01-13050e0a/tests/golden_responses.json
+  s_4ea94d8aa98ef0::t_8ca5c2db2196ec 3
+tasks/world418-ek-01-13050e0a/tests/grade.py
+  s_4ea94d8aa98ef0::t_2009afce820e61 166-168
+tasks/world418-ek-01-13050e0a/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_7bbc17c08d5554 10
+tasks/world418-tk-01-50b3b6a8/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_67cabf78e413a0 6
+tasks/world418-tk-01-50b3b6a8/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_123b3ad6c83308 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world418-tk-01-50b3b6a8/tests/grade.py
+  s_4ea94d8aa98ef0::t_7cae29e9ee1c2f 166-168
+tasks/world418-tk-01-50b3b6a8/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_57aab2f61bdbd0 10
+tasks/world418-tk-02-8ca3247c/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_2b6c9811f806e9 6
+tasks/world418-tk-02-8ca3247c/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_46ab89302c6aa3 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world418-tk-02-8ca3247c/tests/grade.py
+  s_4ea94d8aa98ef0::t_8d2e1b0df05d8b 166-168
+tasks/world418-tk-02-8ca3247c/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_82b6230e910dd9 10
+tasks/world418-tk-03-c03b8f6a/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_ff2913bc139599 6
+tasks/world418-tk-03-c03b8f6a/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_efc66da392b422 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world418-tk-03-c03b8f6a/tests/grade.py
+  s_4ea94d8aa98ef0::t_e215c3c0178566 166-168
+tasks/world418-tk-03-c03b8f6a/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_46cc315ca34f5b 10
+tasks/world419-ah-02-1a47e5fd/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_1ede4a9e502728 6
+tasks/world419-ah-02-1a47e5fd/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_7260201dfa1aca 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world419-ah-02-1a47e5fd/solution/answer.txt
+  s_4ea94d8aa98ef0::t_8ed1fa960ebb81 1
+tasks/world419-ah-02-1a47e5fd/tests/golden_responses.json
+  s_4ea94d8aa98ef0::t_2080c4fe806df3 3
+tasks/world419-ah-02-1a47e5fd/tests/grade.py
+  s_4ea94d8aa98ef0::t_b3c8899950d6af 166-168
+tasks/world419-ah-02-1a47e5fd/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_97cad798b8b510 10
+tasks/world419-ah-03-79e0977c/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_bb001d73c494d4 6
+tasks/world419-ah-03-79e0977c/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_b22c63ae7ecb0b 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world419-ah-03-79e0977c/tests/grade.py
+  s_4ea94d8aa98ef0::t_ccce352a7412f8 166-168
+tasks/world419-ah-03-79e0977c/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_6b24e0ccfaa50b 10
+tasks/world419-um-04-d0f9f0ee/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_ea70f815638890 6
+tasks/world419-um-04-d0f9f0ee/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_8ef35e1d85f92b 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world419-um-04-d0f9f0ee/tests/grade.py
+  s_4ea94d8aa98ef0::t_764117fb3d5a5f 166-168
+tasks/world419-um-04-d0f9f0ee/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_a6823176030d19 10
+tasks/world420-am-02-0e29a58c/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_d2835a7db90e7a 6
+tasks/world420-am-02-0e29a58c/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_1c67f44bad9a3b 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world420-am-02-0e29a58c/tests/grade.py
+  s_4ea94d8aa98ef0::t_d85f91ab77d1ea 166-168
+tasks/world420-am-02-0e29a58c/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_0e42b6210bce3c 10
+tasks/world420-ro-01-49039ba3/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_ff546471e795c4 6
+tasks/world420-ro-01-49039ba3/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_b530114e3b1dc4 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world420-ro-01-49039ba3/tests/grade.py
+  s_4ea94d8aa98ef0::t_4d4d6333405f0a 166-168
+tasks/world420-ro-01-49039ba3/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_4ceadd9ec8068d 10
+tasks/world420-sf-02-a71743f3/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_5b7d2210e9c397 6
+tasks/world420-sf-02-a71743f3/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_ee662d0641cb10 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world420-sf-02-a71743f3/tests/grade.py
+  s_4ea94d8aa98ef0::t_6eac45c894d967 166-168
+tasks/world420-sf-02-a71743f3/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_a16a576bec90e3 10
+tasks/world421-ap-02-930732dc/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_b0816e79afd477 6
+tasks/world421-ap-02-930732dc/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_9c2c022183eec0 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world421-ap-02-930732dc/tests/grade.py
+  s_4ea94d8aa98ef0::t_3833845523a6e9 166-168
+tasks/world421-ap-02-930732dc/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_cea6c552c0249b 10
+tasks/world421-el-03-abf41e5b/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_85a09c12fc156c 6
+tasks/world421-el-03-abf41e5b/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_6c308b5bdee9d2 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world421-el-03-abf41e5b/tests/grade.py
+  s_4ea94d8aa98ef0::t_3b429fbd50ed6b 166-168
+tasks/world421-el-03-abf41e5b/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_bfb4a8c241dcf3 10
+tasks/world421-oo-02-13543200/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_8536e1183e27f2 6
+tasks/world421-oo-02-13543200/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_cd82546d5e008d 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world421-oo-02-13543200/tests/grade.py
+  s_4ea94d8aa98ef0::t_78c0d0745a1fa1 166-168
+tasks/world421-oo-02-13543200/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_a40d4cb193b39d 10
+tasks/world421-tg-02-f7dea046/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_61bc481f67b1ab 6
+tasks/world421-tg-02-f7dea046/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_97b27454aaca52 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world421-tg-02-f7dea046/tests/grade.py
+  s_4ea94d8aa98ef0::t_57b2c35d8127f9 166-168
+tasks/world421-tg-02-f7dea046/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_4ade03b954b14a 10
+tasks/world421-tg-03-860d1b66/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_5240907ff30bde 6
+tasks/world421-tg-03-860d1b66/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_611dd16b39ed2c 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world421-tg-03-860d1b66/tests/grade.py
+  s_4ea94d8aa98ef0::t_aaee2600010ae0 166-168
+tasks/world421-tg-03-860d1b66/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_2d2d7d445f9d40 10
+tasks/world423-dpm-01-178fcb61/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_a4827842400a1e 6
+tasks/world423-dpm-01-178fcb61/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_4329f67c977835 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world423-dpm-01-178fcb61/tests/grade.py
+  s_4ea94d8aa98ef0::t_0b1aef0148f8ad 166-168
+tasks/world423-dpm-01-178fcb61/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_cb3c44c52fc739 10
+tasks/world423-dpm-02-4263f118/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_ab0fd734e5cf1f 6
+tasks/world423-dpm-02-4263f118/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_6cac050b948a07 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world423-dpm-02-4263f118/tests/grade.py
+  s_4ea94d8aa98ef0::t_03ff0490a03338 166-168
+tasks/world423-dpm-02-4263f118/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_9af190cae0db49 10
+tasks/world423-js-01-9efac80a/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_1b368571ce1e1e 6
+tasks/world423-js-01-9efac80a/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_a1315d692e1924 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world423-js-01-9efac80a/tests/grade.py
+  s_4ea94d8aa98ef0::t_9b2cf5554093e2 166-168
+tasks/world423-js-01-9efac80a/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_6ddf6df6754e3c 10
+tasks/world423-js-02-28821806/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_d664db1e902bcd 6
+tasks/world423-js-02-28821806/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_96a62170c0ac18 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world423-js-02-28821806/tests/grade.py
+  s_4ea94d8aa98ef0::t_e27967a9ae2787 166-168
+tasks/world423-js-02-28821806/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_2ea73ad0746d86 10
+tasks/world423-js-03-ee6e557e/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_566e7deae4c0fa 6
+tasks/world423-js-03-ee6e557e/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_d8b15a31eaafdc 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world423-js-03-ee6e557e/solution/answer.txt
+  s_4ea94d8aa98ef0::t_cb32af1868b7d2 1
+tasks/world423-js-03-ee6e557e/tests/golden_responses.json
+  s_4ea94d8aa98ef0::t_c70ba575cb988a 3
+tasks/world423-js-03-ee6e557e/tests/grade.py
+  s_4ea94d8aa98ef0::t_6594196843c712 166-168
+tasks/world423-js-03-ee6e557e/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_918905186c0b92 10
+tasks/world425-jcf-01-e1dfe9ed/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_fe8471ab5e2bff 6
+tasks/world425-jcf-01-e1dfe9ed/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_34642febb3fd90 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world425-jcf-01-e1dfe9ed/tests/golden_responses.json
+  s_4ea94d8aa98ef0::t_1e73d37e69cc64 4
+tasks/world425-jcf-01-e1dfe9ed/tests/grade.py
+  s_4ea94d8aa98ef0::t_54df8905b3ea35 166-168
+tasks/world425-jcf-01-e1dfe9ed/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_1584ced17eba10 10
+tasks/world425-jcf-02-9f502d4d/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_c341fb3cedcf20 6
+tasks/world425-jcf-02-9f502d4d/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_025cd49322382d 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world425-jcf-02-9f502d4d/tests/grade.py
+  s_4ea94d8aa98ef0::t_3f640a0ed1eecc 166-168
+tasks/world425-jcf-02-9f502d4d/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_896fded6cb9edc 10
+tasks/world425-jcf-03-09bdbd1a/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_b393a6f5353acf 6
+tasks/world425-jcf-03-09bdbd1a/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_937097f6f7bedf 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world425-jcf-03-09bdbd1a/tests/golden_responses.json
+  s_4ea94d8aa98ef0::t_b3b53b682e0390 4
+tasks/world425-jcf-03-09bdbd1a/tests/grade.py
+  s_4ea94d8aa98ef0::t_78690cc125cbc1 166-168
+tasks/world425-jcf-03-09bdbd1a/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_8892ef85fb6e75 10
+tasks/world425-tas-01-82e745dd/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_6613e11401ce90 6
+tasks/world425-tas-01-82e745dd/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_7e6a02a41472ca 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world425-tas-01-82e745dd/tests/grade.py
+  s_4ea94d8aa98ef0::t_ddeeaedbc30b81 166-168
+tasks/world425-tas-01-82e745dd/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_4eee5a16729ee2 10
+tasks/world425-tas-02-ac7e521e/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_f7b65a1c6e5efd 6
+tasks/world425-tas-02-ac7e521e/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_ef9600a964982a 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world425-tas-02-ac7e521e/tests/golden_responses.json
+  s_4ea94d8aa98ef0::t_28183eacd5b8c2 4
+tasks/world425-tas-02-ac7e521e/tests/grade.py
+  s_4ea94d8aa98ef0::t_8c85a24ab0d89b 166-168
+tasks/world425-tas-02-ac7e521e/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_da3b64f76b1c89 10
+tasks/world425-tas-05-2c185600/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_3217b8063053ed 6
+tasks/world425-tas-05-2c185600/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_f22c80c934dec2 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world425-tas-05-2c185600/tests/golden_responses.json
+  s_4ea94d8aa98ef0::t_aa041d6a907ad8 4
+tasks/world425-tas-05-2c185600/tests/grade.py
+  s_4ea94d8aa98ef0::t_c573e0d46f39e6 166-168
+tasks/world425-tas-05-2c185600/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_967c6c6c3a1e0f 10
+tasks/world431-amk-01-5840c72a/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_0b96e279bb57e2 6
+tasks/world431-amk-01-5840c72a/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_6d12fb80dc291c 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world431-amk-01-5840c72a/tests/grade.py
+  s_4ea94d8aa98ef0::t_ea2544f576ba95 166-168
+tasks/world431-amk-01-5840c72a/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_7abef8ae70a431 10
+tasks/world431-amk-02-78a4d3ea/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_22e8b90e6d314d 6
+tasks/world431-amk-02-78a4d3ea/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_ba5bbdae1034ad 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world431-amk-02-78a4d3ea/tests/grade.py
+  s_4ea94d8aa98ef0::t_11d89ba3985f44 166-168
+tasks/world431-amk-02-78a4d3ea/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_0d3b65935cdc8e 10
+tasks/world431-avk-01-4e761f5b/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_70e2aa1c38fa57 6
+tasks/world431-avk-01-4e761f5b/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_b8bb8e6ccf183b 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world431-avk-01-4e761f5b/tests/grade.py
+  s_4ea94d8aa98ef0::t_50855ab5e97196 166-168
+tasks/world431-avk-01-4e761f5b/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_a3e286958ad89a 10
+tasks/world431-dm-01-b4b1d7a0/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_d3e44cc7c75880 6
+tasks/world431-dm-01-b4b1d7a0/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_8760db2d1dc6fc 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world431-dm-01-b4b1d7a0/tests/grade.py
+  s_4ea94d8aa98ef0::t_ebd8b378654791 166-168
+tasks/world431-dm-01-b4b1d7a0/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_a502900a39b968 10
+tasks/world431-jcf-01-3d85cec9/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_4dd3278a4de86e 6
+tasks/world431-jcf-01-3d85cec9/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_4665e586626ef8 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world431-jcf-01-3d85cec9/tests/grade.py
+  s_4ea94d8aa98ef0::t_7e27fd46cf137d 166-168
+tasks/world431-jcf-01-3d85cec9/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_5239133854af66 10
+tasks/world431task-el-01-6ec3da62/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_2d980aa979813c 6
+tasks/world431task-el-01-6ec3da62/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_8d3a767521232b 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world431task-el-01-6ec3da62/tests/grade.py
+  s_4ea94d8aa98ef0::t_3a66b8c209a672 166-168
+tasks/world431task-el-01-6ec3da62/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_0aa92de43a1f2c 10
+tasks/world433-js-04-b2ea95d5/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_e9553744e1e3dc 6
+tasks/world433-js-04-b2ea95d5/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_de731e95e94bb0 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world433-js-04-b2ea95d5/solution/answer.txt
+  s_4ea94d8aa98ef0::t_48acf3174146fc 1
+tasks/world433-js-04-b2ea95d5/tests/golden_responses.json
+  s_4ea94d8aa98ef0::t_85d2383c35dc23 3
+tasks/world433-js-04-b2ea95d5/tests/grade.py
+  s_4ea94d8aa98ef0::t_920e3a76105b81 166-168
+tasks/world433-js-04-b2ea95d5/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_6545519c78061d 10,28,33,56
+tasks/world433-js-05-bc0d94bf/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_ab6a012db05025 6
+tasks/world433-js-05-bc0d94bf/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_c88ef7b97f74eb 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world433-js-05-bc0d94bf/tests/grade.py
+  s_4ea94d8aa98ef0::t_1a941eb1efe1ad 166-168
+tasks/world433-js-05-bc0d94bf/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_c6d860cfa607aa 10
+tasks/world433-sg-01-a23ecfdf/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_7ae3fec665a296 6
+tasks/world433-sg-01-a23ecfdf/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_c55a7aee9213f6 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world433-sg-01-a23ecfdf/tests/grade.py
+  s_4ea94d8aa98ef0::t_2cfc450812ff48 166-168
+tasks/world433-sg-01-a23ecfdf/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_6b96ac0cc39540 10
+tasks/world434-ah-01-f0eb6d9f/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_5cd0854cd2845f 6
+tasks/world434-ah-01-f0eb6d9f/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_9f2fe583c7796e 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world434-ah-01-f0eb6d9f/tests/grade.py
+  s_4ea94d8aa98ef0::t_7ed0a97b5641b3 166-168
+tasks/world434-ah-01-f0eb6d9f/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_315240cc0bfcb7 10
+tasks/world434-ah-05-0ad4be07/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_b5f0c1771f7207 6
+tasks/world434-ah-05-0ad4be07/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_af516ed2590882 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world434-ah-05-0ad4be07/tests/grade.py
+  s_4ea94d8aa98ef0::t_ff1c64275c39c5 166-168
+tasks/world434-ah-05-0ad4be07/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_811e28798ea461 10
+tasks/world434-dpm-01-69a99cb9/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_1094d10907722e 6
+tasks/world434-dpm-01-69a99cb9/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_e858e120c14595 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world434-dpm-01-69a99cb9/tests/grade.py
+  s_4ea94d8aa98ef0::t_e71f16b534abfc 166-168
+tasks/world434-dpm-01-69a99cb9/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_9604b733a7af85 10
+tasks/world434-js-01-aedf3ab0/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_326c0a11454988 6
+tasks/world434-js-01-aedf3ab0/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_af8f0116378c2e 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world434-js-01-aedf3ab0/tests/grade.py
+  s_4ea94d8aa98ef0::t_41f255023c78b7 166-168
+tasks/world434-js-01-aedf3ab0/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_d53409fe177d9a 10
+tasks/world434-js-03-306ae67e/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_5c3664a1a7b7cb 6
+tasks/world434-js-03-306ae67e/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_cd0941c648f124 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world434-js-03-306ae67e/solution/answer.txt
+  s_4ea94d8aa98ef0::t_3687959064f787 1-11
+tasks/world434-js-03-306ae67e/tests/golden_responses.json
+  s_4ea94d8aa98ef0::t_9b20279c2658a1 3
+tasks/world434-js-03-306ae67e/tests/grade.py
+  s_4ea94d8aa98ef0::t_28cd3a9f6289c8 166-168
+tasks/world434-js-03-306ae67e/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_9b3b79fafc19a0 10
+tasks/world434-js-04-2212abef/environment/docker-compose.yaml
+  s_4ea94d8aa98ef0::t_91333b8c7f1d12 6
+tasks/world434-js-04-2212abef/environment/task_files/.harbor/mcp_config.json
+  s_4ea94d8aa98ef0::t_ffc5a1506ed8cb 5,7-12,20-25,30,32-37,46-51,56,58-63,72-76,81,83-88,97-101,106,108-113,122-126,131,133-138,147-151,156,158-163,171-176,181,183-188,196-222
+tasks/world434-js-04-2212abef/solution/answer.txt
+  s_4ea94d8aa98ef0::t_7fa1d1dc0d111e 1,3-9
+tasks/world434-js-04-2212abef/tests/golden_responses.json
+  s_4ea94d8aa98ef0::t_e7b3dca42645db 3
+tasks/world434-js-04-2212abef/tests/grade.py
+  s_4ea94d8aa98ef0::t_eb84e9b6c0e6a5 166-168
+tasks/world434-js-04-2212abef/tests/grading_config.json
+  s_4ea94d8aa98ef0::t_f1a0942ec1b36d 10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "acac9b39e5ac5be5d60132e76df0d91c1fb48776",
+  "prompts": {},
+  "sessions": {
+    "s_4ea94d8aa98ef0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f74e9604-6276-4ecc-a8bb-fae15e767da2",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Allen Lin <allen@osmosis.ai>"
+    }
+  }
+}
