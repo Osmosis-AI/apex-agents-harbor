@@ -3,7 +3,7 @@
 # what the next one reads.
 services:
   world:
-    image: "ghcr.io/osmosis-ai/apex-agents-1-1@sha256:969fb1a4279ad5ed144f46df1e2a12c7c59ce1b3c3051faef34fa20561ab3a14"
+    image: "ghcr.io/osmosis-ai/apex-agents-1-1@sha256:e2b62976202f9a3484fc898efb2a1047134dd77cde472658be5fdd92feaabcad"
     expose:
       - "8000"
     volumes:

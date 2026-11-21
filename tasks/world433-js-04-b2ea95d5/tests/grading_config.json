@@ -7,7 +7,7 @@
     "expected_output": "message_in_console"
   },
   "grading_settings": {
-    "llm_judge_model": "fireworks_ai/accounts/fireworks/models/deepseek-v4-flash-0731",
+    "llm_judge_model": "vercel_ai_gateway/deepseek/deepseek-v4-flash-0731",
     "llm_judge_extra_args": {
       "temperature": 0.1
     },
@@ -25,12 +25,12 @@
           "Statement"
         ],
         "weight": 1,
-        "criteria": "States that 10A NCAC 13F .0305(b)(4) requires a required living room and recreational area to have windows with views to the outside.",
+        "criteria": "States that 10A NCAC 13F .0305(b)(4) requires a recreational area to have windows with views to the outside.",
         "autogen_source": null,
         "negative_criteria": null,
         "expected_file_type": "Final Answer Only (No Files)",
         "criteria_explanation": "10A NCAC 13F .0305(b)(4) states that “a required living room and recreational area shall have windows with views to the outside. The total gross window area shall not be less than eight percent of the gross floor area of the room. The window shall be openable from the inside and shall have insect-proof screens.” A response satisfies this criterion by stating that outside-view windows are required; substantially similar wording qualifies.",
-        "is_primary_objective": null,
+        "is_primary_objective": true,
         "artifacts_to_reference": null
       },
       "verifier_custom_field_values": {},
@@ -53,7 +53,7 @@
         "negative_criteria": null,
         "expected_file_type": "Final Answer Only (No Files)",
         "criteria_explanation": "The task prompt states that the recreational area is fully interior, with no exterior wall and no windows. 10A NCAC 13F .0305(b)(4) requires a required living room and recreational area to have windows with views to the outside. Subsection (b)(3) requires 16 square feet per resident in buildings with a licensed capacity of 16 or more, which 400 square feet satisfies exactly at a licensed capacity of 25, so the area meets the sizing requirement and fails only the window requirement. A response satisfies this criterion by concluding that the area does not comply with .0305 on the window requirement; substantially similar wording qualifies.",
-        "is_primary_objective": null,
+        "is_primary_objective": true,
         "artifacts_to_reference": null
       },
       "verifier_custom_field_values": {},

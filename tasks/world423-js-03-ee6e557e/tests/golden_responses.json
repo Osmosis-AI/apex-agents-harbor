@@ -1,6 +1,6 @@
 [
   {
-    "golden_text_response": "Yes, Northstar would be required, under New York Law, to notify affected New York residents if the data contained in the Northstar health-related product identifiers were transferred to an unauthorized person. This is because the data contained in the Northstar health-related product identifiers is private information.",
+    "golden_text_response": "Yes, Northstar would have to notify affected New York residents under N.Y. Gen. Bus. Law \u00a7 899-aa(2) because the unauthorized transfer would constitute a breach involving unencrypted personal information, consisting of user IDs that Northstar can link to named customers, combined with medical information about blood pressure, heart rate, and body temperature, which qualifies as private information under \u00a7 899-aa(1)(b)(i)(6).",
     "golden_file_responses": null,
     "golden_files_path": null
   }

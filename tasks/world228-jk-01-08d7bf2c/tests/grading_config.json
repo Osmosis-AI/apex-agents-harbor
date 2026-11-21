@@ -7,7 +7,7 @@
     "expected_output": "edit_existing_sheet"
   },
   "grading_settings": {
-    "llm_judge_model": "fireworks_ai/accounts/fireworks/models/deepseek-v4-flash-0731",
+    "llm_judge_model": "vercel_ai_gateway/deepseek/deepseek-v4-flash-0731",
     "llm_judge_extra_args": {
       "temperature": 0.1
     },
@@ -81,7 +81,7 @@
         "tags": [
           "Reasoning (numerical)"
         ],
-        "criteria": "States Implied EV/EBITDA (2025E) is 12.7x",
+        "criteria": "States an Implied EV/EBITDA (2025E) that rounds to 12.7x",
         "negative_criteria": "States Implied EV/EBITDA (2025E) is any value other than 12.7x",
         "expected_file_type": "Spreadsheets (.xlsx, .xls, .xlsm, .ods)"
       },
@@ -101,7 +101,7 @@
         "tags": [
           "Reasoning (numerical)"
         ],
-        "criteria": "States Implied EV/Revenue (2025E) is 2.5x",
+        "criteria": "States an Implied EV/Revenue (2025E) that rounds to 2.5x",
         "negative_criteria": "States Implied EV/Revenue (2025E) is any value other than 2.5x",
         "expected_file_type": "Spreadsheets (.xlsx, .xls, .xlsm, .ods)"
       },

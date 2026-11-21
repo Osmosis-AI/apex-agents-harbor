@@ -24,6 +24,6 @@ Assess how much certain business drivers must move to bring IRR below 20%. The s
 
 Assumptions and constraints:
 1. EBITDA is not to fall below $91 million for any year. If this threshold is passed the new constraint becomes EBITDA for each individual year instead of the IRR.
-2. 'Debt costs' should be set to 0% for all other sensitivities.
+2. The 'Debt costs' scaling driver should be set to 0% for all other sensitivities.
 
 Create a new sheet that shows values for the five major business drivers.

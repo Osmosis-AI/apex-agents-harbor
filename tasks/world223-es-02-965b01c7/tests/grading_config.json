@@ -7,7 +7,7 @@
     "expected_output": "edit_existing_sheet"
   },
   "grading_settings": {
-    "llm_judge_model": "fireworks_ai/accounts/fireworks/models/deepseek-v4-flash-0731",
+    "llm_judge_model": "vercel_ai_gateway/deepseek/deepseek-v4-flash-0731",
     "llm_judge_extra_args": {
       "temperature": 0.1
     },
@@ -142,25 +142,6 @@
       },
       "verifier_custom_field_values": {},
       "verifier_index": 7,
-      "verifier_dependencies": []
-    },
-    {
-      "verifier_id": "ver_fc6c37675c354ee0bcbefc605f4713f7",
-      "verifier_version": 1,
-      "world_id": null,
-      "task_id": "task_965b01c74286470dab87302c03a57734",
-      "eval_config_id": "output_llm",
-      "verifier_values": {
-        "tags": [
-          "Statement"
-        ],
-        "weight": 1,
-        "criteria": "States the price premium per share at $0 synergies is 25.00%",
-        "expected_file_type": "Spreadsheets (.xlsx, .xls, .xlsm, .ods)",
-        "is_primary_objective": false
-      },
-      "verifier_custom_field_values": {},
-      "verifier_index": 8,
       "verifier_dependencies": []
     }
   ],

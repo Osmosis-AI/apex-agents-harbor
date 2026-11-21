@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Generate apex-agents-harbor from Mercor's APEX-Agents 1.1 Harbor Hub release.
 
-    harbor datasets download mercor/apex-agents-1-1@1.0.1 -o /tmp/hub --export
-    python3 scripts/generate.py --source /tmp/hub/apex-agents-1-1 --hub-revision 14
+    harbor datasets download mercor/apex-agents-1-1@1.1.1 -o /tmp/hub --export
+    python3 scripts/generate.py --source /tmp/hub/apex-agents-1-1 --hub-revision 18
 
 Every task package is copied verbatim except for the three image references
 (`[environment].docker_image` in task.toml, the world `image:` in
@@ -26,14 +26,14 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 DATASET_NAME = "apex-agents-1-1"
-DATASET_VERSION = "1.0.1"
+DATASET_VERSION = "1.1.1"
 HUB_DATASET = f"mercor/{DATASET_NAME}@{DATASET_VERSION}"
 HUGGINGFACE_DATASET = "mercor/apex-agents-v1.1"
 SOURCE_REGISTRY = "public.ecr.aws/k4t1e3r5/harbor-hub"
 MIRROR = "ghcr.io/osmosis-ai/apex-agents-1-1"
 COMPANION_AGENT = (
     "Mercor-Intelligence/apex_loop_truncated_tools_agent"
-    "@1ec75805084ca5b8aff1d6411e9e3cef03a46947"
+    "@9d99c6f11b40f31364e789f214c92b480f8b1c61"
 )
 TASK_COUNT = 240
 DOMAINS = ("Investment Banking", "Law", "Management Consulting")
@@ -125,10 +125,10 @@ def generate(source: Path, hub_revision: int) -> None:
         "source_registry": SOURCE_REGISTRY,
         "mirror": MIRROR,
         "platform": "linux/amd64",
-        "agent": {"tag": "agent", "digest": next(iter(roles["agent"]))},
-        "verifier": {"tag": "verifier", "digest": next(iter(roles["verifier"]))},
+        "agent": {"tag": f"{DATASET_VERSION}-agent", "digest": next(iter(roles["agent"]))},
+        "verifier": {"tag": f"{DATASET_VERSION}-verifier", "digest": next(iter(roles["verifier"]))},
         "worlds": {
-            world_id: {"tag": f"world-{short(world_id)}", **world}
+            world_id: {"tag": f"{DATASET_VERSION}-world-{short(world_id)}", **world}
             for world_id, world in sorted(worlds.items())
         },
     }
